@@ -23,6 +23,7 @@
 [1342. Number of Steps to Reduce a Number to Zero](./src/main/java/com/qeeqez/easy/NumberOfStepsReduceNumberToZero1342.java)  
 [1365. How Many Numbers Are Smaller Than the Current Number](./src/main/java/com/qeeqez/easy/HowManyNumbersAreSmallerThanCurrent1365.java)  
 [1389. Create Target Array in the Given Order](./src/main/java/com/qeeqez/easy/CreateTargetArrayGivenOrder1389.java)  
+[1486. XOR Operation in an Array](./src/main/java/com/qeeqez/easy/XOROperationArray1486.java)  
 [1528. Shuffle String](./src/main/java/com/qeeqez/easy/ShuffleString1528.java)  
 [1678. Goal Parser Interpretation](./src/main/java/com/qeeqez/easy/GoalParserInterpretation1678.java)  
 [1720. Decode XORed Array](./src/main/java/com/qeeqez/easy/DecodeXORedArray1720.java)  
