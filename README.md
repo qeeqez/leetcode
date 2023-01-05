@@ -17,6 +17,7 @@
 [69. Sqrt(x)](./src/main/java/com/qeeqez/easy/SqrtX69.java)  
 [88. Merge Sorted Array](./src/main/java/com/qeeqez/easy/MergeSortedArray88.java)  
 [169. Majority Element](./src/main/java/com/qeeqez/easy/MajorityElement169.java)  
+[1221. Split a String in Balanced Strings](./src/main/java/com/qeeqez/easy/SplitStringInBalancedStrings1221.java)  
 [1281. Subtract the Product and Sum of Digits of an Integer](./src/main/java/com/qeeqez/easy/SubstractProductAndSumOfDigitsInteger1281.java)  
 [1313. Decompress Run-Length Encoded List](./src/main/java/com/qeeqez/easy/DecompressRunLengthEncodedList1313.java)  
 [1342. Number of Steps to Reduce a Number to Zero](./src/main/java/com/qeeqez/easy/NumberOfStepsReduceNumberToZero1342.java)  
