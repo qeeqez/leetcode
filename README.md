@@ -14,13 +14,34 @@
 [14. Longest Common Prefix](./src/main/java/com/qeeqez/easy/LongestCommonPrefix14.java)  
 [26. Remove Duplicates from Sorted Array](./src/main/java/com/qeeqez/easy/RemoveDuplicatesFromSortedArray26.java)  
 [27. Remove Element](./src/main/java/com/qeeqez/easy/RemoveElement27.java)
+[67. Add Binary](./src/main/java/com/qeeqez/easy/AddBinary67.java)
 [69. Sqrt(x)](./src/main/java/com/qeeqez/easy/SqrtX69.java)  
 [88. Merge Sorted Array](./src/main/java/com/qeeqez/easy/MergeSortedArray88.java)  
 [169. Majority Element](./src/main/java/com/qeeqez/easy/MajorityElement169.java)  
+[270. Closest Binary Search Tree Value]   
+[278. First Bad Version](./src/main/java/com/qeeqez/easy/FirstBadVersion278.java)  
+[283. Move Zeroes](./src/main/java/com/qeeqez/easy/MoveZeroes283.java)  
+[344. Reverse String](./src/main/java/com/qeeqez/easy/ReverseString344.java)  
+[374. Guess Number Higher or Lower](./src/main/java/com/qeeqez/easy/GuessNumberHigherOrLower374.java)  
+[414. Third Maximum Number](./src/main/java/com/qeeqez/easy/ThirdMaximumNumber414.java)  
+[448. Find All Numbers Disappeared in an Array]  
+[485. Max Consecutive Ones]  
+[520. Detect Capital](./src/main/java/com/qeeqez/easy/DetectCapital520.java)  
+[521. Longest Uncommon Subsequence I](./src/main/java/com/qeeqez/easy/LongestUncommonSubsequence521.java)  
+[704. Binary Search]  
+[905. Sort Array By Parity]  
+[941. Valid Mountain Array]  
+[977. Squares of a Sorted Array]  
+[1051. Height Checker]  
+[1089. Duplicate Zeros]  
+[1207. Unique Number of Occurrences]    
 [1221. Split a String in Balanced Strings](./src/main/java/com/qeeqez/easy/SplitStringInBalancedStrings1221.java)  
 [1281. Subtract the Product and Sum of Digits of an Integer](./src/main/java/com/qeeqez/easy/SubstractProductAndSumOfDigitsInteger1281.java)  
+[1295. Find Numbers with Even Number of Digits]  
+[1299. Replace Elements with Greatest Element on Right Side]  
 [1313. Decompress Run-Length Encoded List](./src/main/java/com/qeeqez/easy/DecompressRunLengthEncodedList1313.java)  
 [1342. Number of Steps to Reduce a Number to Zero](./src/main/java/com/qeeqez/easy/NumberOfStepsReduceNumberToZero1342.java)  
+[1346. Check If N and Its Double Exist]  
 [1365. How Many Numbers Are Smaller Than the Current Number](./src/main/java/com/qeeqez/easy/HowManyNumbersAreSmallerThanCurrent1365.java)  
 [1389. Create Target Array in the Given Order](./src/main/java/com/qeeqez/easy/CreateTargetArrayGivenOrder1389.java)  
 [1486. XOR Operation in an Array](./src/main/java/com/qeeqez/easy/XOROperationArray1486.java)  
@@ -33,5 +54,13 @@
 [2520. Count the Digits That Divide a Number](./src/main/java/com/qeeqez/easy/CountDigitsDivideNumber2520.java)
 
 ### Medium
+[28. Find the Index of the First Occurrence in a String]  
+[33. Search in Rotated Sorted Array]  
+[34. Find First and Last Position of Element in Sorted Array]  
+[153. Find Minimum in Rotated Sorted Array]  
+[162. Find Peak Element]  
+[189. Rotate Array]  
+[487. Max Consecutive Ones II]  
+[522. Longest Uncommon Subsequence II](./src/main/java/com/qeeqez/medium/LongestUncommonSubsequence522.java)
 
 ### Hard
