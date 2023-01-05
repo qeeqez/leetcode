@@ -28,6 +28,7 @@
 [1678. Goal Parser Interpretation](./src/main/java/com/qeeqez/easy/GoalParserInterpretation1678.java)  
 [1720. Decode XORed Array](./src/main/java/com/qeeqez/easy/DecodeXORedArray1720.java)  
 [1773. Count Items Matching a Rule](./src/main/java/com/qeeqez/easy/CountMatches1773.java)  
+[1859. Sorting the Sentence](./src/main/java/com/qeeqez/easy/SortingSentence1859.java)  
 [2194. Cells in a Range on an Excel Sheet](./src/main/java/com/qeeqez/easy/CellsRangeExcel2194.java)
 
 ### Medium
