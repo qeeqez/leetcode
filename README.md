@@ -21,6 +21,7 @@
 [270. Closest Binary Search Tree Value]   
 [278. First Bad Version](./src/main/java/com/qeeqez/easy/FirstBadVersion278.java)  
 [283. Move Zeroes](./src/main/java/com/qeeqez/easy/MoveZeroes283.java)  
+[290. Word Pattern](./src/main/java/com/qeeqez/easy/WordPattern290.java)  
 [344. Reverse String](./src/main/java/com/qeeqez/easy/ReverseString344.java)  
 [374. Guess Number Higher or Lower](./src/main/java/com/qeeqez/easy/GuessNumberHigherOrLower374.java)  
 [414. Third Maximum Number](./src/main/java/com/qeeqez/easy/ThirdMaximumNumber414.java)  
