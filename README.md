@@ -32,6 +32,7 @@
 [704. Binary Search]  
 [905. Sort Array By Parity]  
 [941. Valid Mountain Array]  
+[944. Delete Columns to Make Sorted](./src/main/java/com/qeeqez/easy/SplitStringInBalancedStrings1221.java)  
 [977. Squares of a Sorted Array]  
 [1051. Height Checker]  
 [1089. Duplicate Zeros]  
