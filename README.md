@@ -36,6 +36,7 @@
 [977. Squares of a Sorted Array]  
 [1051. Height Checker]  
 [1089. Duplicate Zeros]  
+[1108. Defanging an IP Address](./src/main/java/com/qeeqez/easy/DefangingIPAddress1108.java)  
 [1207. Unique Number of Occurrences]    
 [1221. Split a String in Balanced Strings](./src/main/java/com/qeeqez/easy/SplitStringInBalancedStrings1221.java)  
 [1281. Subtract the Product and Sum of Digits of an Integer](./src/main/java/com/qeeqez/easy/SubstractProductAndSumOfDigitsInteger1281.java)  
