@@ -53,6 +53,7 @@
 [1486. XOR Operation in an Array](./src/main/java/com/qeeqez/easy/XOROperationArray1486.java)  
 [1512. Number of Good Pairs](./src/main/java/com/qeeqez/easy/NumberOfGoodPairs1512.java)  
 [1528. Shuffle String](./src/main/java/com/qeeqez/easy/ShuffleString1528.java)  
+[1672. Richest Customer Wealth](./src/main/java/com/qeeqez/easy/RichestCustomerWealth1672.java)  
 [1678. Goal Parser Interpretation](./src/main/java/com/qeeqez/easy/GoalParserInterpretation1678.java)  
 [1720. Decode XORed Array](./src/main/java/com/qeeqez/easy/DecodeXORedArray1720.java)  
 [1773. Count Items Matching a Rule](./src/main/java/com/qeeqez/easy/CountMatches1773.java)  
