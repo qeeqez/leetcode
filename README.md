@@ -47,6 +47,7 @@
 [1346. Check If N and Its Double Exist]  
 [1365. How Many Numbers Are Smaller Than the Current Number](./src/main/java/com/qeeqez/easy/HowManyNumbersAreSmallerThanCurrent1365.java)  
 [1389. Create Target Array in the Given Order](./src/main/java/com/qeeqez/easy/CreateTargetArrayGivenOrder1389.java)  
+[1470. Shuffle the Array](./src/main/java/com/qeeqez/easy/ShuffleArray1470.java)  
 [1480. Running Sum of 1d Array](./src/main/java/com/qeeqez/easy/RunningSumOf1dArray1480.java)  
 [1486. XOR Operation in an Array](./src/main/java/com/qeeqez/easy/XOROperationArray1486.java)  
 [1528. Shuffle String](./src/main/java/com/qeeqez/easy/ShuffleString1528.java)  
