@@ -16,6 +16,7 @@
 [21. Merge Two Sorted Lists](./src/main/java/com/qeeqez/easy/MergeTwoSortedLists21.java)  
 [26. Remove Duplicates from Sorted Array](./src/main/java/com/qeeqez/easy/RemoveDuplicatesFromSortedArray26.java)  
 [27. Remove Element](./src/main/java/com/qeeqez/easy/RemoveElement27.java)
+[35. Search Insert Position](./src/main/java/com/qeeqez/easy/SearchInsertPosition35.java)
 [67. Add Binary](./src/main/java/com/qeeqez/easy/AddBinary67.java)
 [69. Sqrt(x)](./src/main/java/com/qeeqez/easy/SqrtX69.java)  
 [88. Merge Sorted Array](./src/main/java/com/qeeqez/easy/MergeSortedArray88.java)  
