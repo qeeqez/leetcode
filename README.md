@@ -56,6 +56,7 @@
 [1920. Build Array from Permutation](./src/main/java/com/qeeqez/easy/BuildArrayFromPermutation1920.java)  
 [1929. Concatenation of Array](./src/main/java/com/qeeqez/easy/ConcatentaionOfArray1929.java)  
 [2194. Cells in a Range on an Excel Sheet](./src/main/java/com/qeeqez/easy/CellsRangeExcel2194.java)  
+[2235. Add Two Integers](./src/main/java/com/qeeqez/easy/AddTwoIntegers2235.java)  
 [2469. Convert the Temperature](./src/main/java/com/qeeqez/easy/ConvertTheTemperature2469.java)  
 [2520. Count the Digits That Divide a Number](./src/main/java/com/qeeqez/easy/CountDigitsDivideNumber2520.java)
 
