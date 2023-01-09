@@ -47,6 +47,7 @@
 [1346. Check If N and Its Double Exist]  
 [1365. How Many Numbers Are Smaller Than the Current Number](./src/main/java/com/qeeqez/easy/HowManyNumbersAreSmallerThanCurrent1365.java)  
 [1389. Create Target Array in the Given Order](./src/main/java/com/qeeqez/easy/CreateTargetArrayGivenOrder1389.java)  
+[1480. Running Sum of 1d Array](./src/main/java/com/qeeqez/easy/RunningSumOf1dArray1480.java)  
 [1486. XOR Operation in an Array](./src/main/java/com/qeeqez/easy/XOROperationArray1486.java)  
 [1528. Shuffle String](./src/main/java/com/qeeqez/easy/ShuffleString1528.java)  
 [1678. Goal Parser Interpretation](./src/main/java/com/qeeqez/easy/GoalParserInterpretation1678.java)  
@@ -55,7 +56,7 @@
 [1859. Sorting the Sentence](./src/main/java/com/qeeqez/easy/SortingSentence1859.java)  
 [1920. Build Array from Permutation](./src/main/java/com/qeeqez/easy/BuildArrayFromPermutation1920.java)  
 [1929. Concatenation of Array](./src/main/java/com/qeeqez/easy/ConcatentaionOfArray1929.java)  
-[2011. Final Value of Variable After Performing Operations](./src/main/java/com/qeeqez/easy/FinalValueVaruableAfterOperations2011.java)
+[2011. Final Value of Variable After Performing Operations](./src/main/java/com/qeeqez/easy/FinalValueVaruableAfterOperations2011.java)  
 [2194. Cells in a Range on an Excel Sheet](./src/main/java/com/qeeqez/easy/CellsRangeExcel2194.java)  
 [2235. Add Two Integers](./src/main/java/com/qeeqez/easy/AddTwoIntegers2235.java)  
 [2469. Convert the Temperature](./src/main/java/com/qeeqez/easy/ConvertTheTemperature2469.java)  
