@@ -32,7 +32,7 @@
 [485. Max Consecutive Ones]  
 [520. Detect Capital](./src/main/java/com/qeeqez/easy/DetectCapital520.java)  
 [521. Longest Uncommon Subsequence I](./src/main/java/com/qeeqez/easy/LongestUncommonSubsequence521.java)  
-[704. Binary Search]  
+[704. Binary Search](./src/main/java/com/qeeqez/easy/BinarySearch704.java)  
 [771. Jewels and Stones](./src/main/java/com/qeeqez/easy/JewelsAndStones771.java)  
 [905. Sort Array By Parity]  
 [941. Valid Mountain Array]  
