@@ -25,4 +25,31 @@ public class FirstbadVersion278Test {
 
         assertEquals(output, solution.firstBadVersion(n, bad));
     }
+
+    @Test
+    public void testCase3() {
+        int n = 15;
+        int bad = 9;
+        int output = 9;
+
+        assertEquals(output, solution.firstBadVersion(n, bad));
+    }
+
+    @Test
+    public void testCase4() {
+        int n = 15;
+        int bad = 8;
+        int output = 8;
+
+        assertEquals(output, solution.firstBadVersion(n, bad));
+    }
+
+    @Test
+    public void testCase5() {
+        int n = 150;
+        int bad = 29;
+        int output = 29;
+
+        assertEquals(output, solution.firstBadVersion(n, bad));
+    }
 }

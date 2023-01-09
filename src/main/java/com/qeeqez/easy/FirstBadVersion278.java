@@ -1,7 +1,7 @@
 package com.qeeqez.easy;
 
 /**
- * 2520. Count the Digits That Divide a Number
+ * 278. First Bad Version
  * <p>
  * You are a product manager and currently leading a team to develop a new product.
  * Unfortunately, the latest version of your product fails the quality check.
@@ -14,33 +14,32 @@ package com.qeeqez.easy;
  * You should minimize the number of calls to the API.
  */
 public class FirstBadVersion278 {
+
     public int firstBadVersion(int n, int badVersion) {
         if (n == 1) {
             return 1;
         }
 
-        int pivot;
-        int right = n;
-        int left = 1;
-        int lastTrue = 0;
+        int first = 1;
+        int last = n;
+        int middle = 0;
 
-        while (right >= left) {
-            pivot = left + (right - left) / 2;
-            if (isBadVersion(pivot, badVersion)) {
-                lastTrue = pivot;
-                right = pivot - 1;
+        while (last >= first) {
+            middle = (last - first) / 2 + first;
+            if (isBadVersion(middle, badVersion)) {
+                if (last == first) return middle;
+                last = middle;
             } else {
-                left = pivot + 1;
+                first = middle + 1;
             }
         }
-
-        return lastTrue;
+        return middle;
     }
 
     /* The isBadVersion API is defined in the parent class VersionControl.
       boolean isBadVersion(int version); */
     private boolean isBadVersion(int version, int badVersion) {
-        return version == badVersion;
+        return version >= badVersion;
     }
 }
 
