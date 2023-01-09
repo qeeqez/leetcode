@@ -13,6 +13,7 @@
 [13. Roman to Integer](./src/main/java/com/qeeqez/easy/RomanToInteger13.java)  
 [14. Longest Common Prefix](./src/main/java/com/qeeqez/easy/LongestCommonPrefix14.java)  
 [20. Valid Parentheses](./src/main/java/com/qeeqez/easy/ValidParentheses20.java)  
+[21. Merge Two Sorted Lists](./src/main/java/com/qeeqez/easy/MergeTwoSortedLists21.java)  
 [26. Remove Duplicates from Sorted Array](./src/main/java/com/qeeqez/easy/RemoveDuplicatesFromSortedArray26.java)  
 [27. Remove Element](./src/main/java/com/qeeqez/easy/RemoveElement27.java)
 [67. Add Binary](./src/main/java/com/qeeqez/easy/AddBinary67.java)
