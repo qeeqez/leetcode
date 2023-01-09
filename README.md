@@ -55,6 +55,7 @@
 [1859. Sorting the Sentence](./src/main/java/com/qeeqez/easy/SortingSentence1859.java)  
 [1920. Build Array from Permutation](./src/main/java/com/qeeqez/easy/BuildArrayFromPermutation1920.java)  
 [1929. Concatenation of Array](./src/main/java/com/qeeqez/easy/ConcatentaionOfArray1929.java)  
+[2011. Final Value of Variable After Performing Operations](./src/main/java/com/qeeqez/easy/FinalValueVaruableAfterOperations2011.java)
 [2194. Cells in a Range on an Excel Sheet](./src/main/java/com/qeeqez/easy/CellsRangeExcel2194.java)  
 [2235. Add Two Integers](./src/main/java/com/qeeqez/easy/AddTwoIntegers2235.java)  
 [2469. Convert the Temperature](./src/main/java/com/qeeqez/easy/ConvertTheTemperature2469.java)  
