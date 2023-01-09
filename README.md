@@ -23,6 +23,7 @@
 [283. Move Zeroes](./src/main/java/com/qeeqez/easy/MoveZeroes283.java)  
 [290. Word Pattern](./src/main/java/com/qeeqez/easy/WordPattern290.java)  
 [344. Reverse String](./src/main/java/com/qeeqez/easy/ReverseString344.java)  
+[367. Valid Perfect Square](./src/main/java/com/qeeqez/easy/ValidPerfectSquare367.java)  
 [374. Guess Number Higher or Lower](./src/main/java/com/qeeqez/easy/GuessNumberHigherOrLower374.java)  
 [414. Third Maximum Number](./src/main/java/com/qeeqez/easy/ThirdMaximumNumber414.java)  
 [448. Find All Numbers Disappeared in an Array]  
