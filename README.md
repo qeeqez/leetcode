@@ -21,6 +21,7 @@
 [69. Sqrt(x)](./src/main/java/com/qeeqez/easy/SqrtX69.java)  
 [88. Merge Sorted Array](./src/main/java/com/qeeqez/easy/MergeSortedArray88.java)  
 [169. Majority Element](./src/main/java/com/qeeqez/easy/MajorityElement169.java)  
+[217. Contains Duplicate](./src/main/java/com/qeeqez/easy/ContainsDuplicate217.java)  
 [270. Closest Binary Search Tree Value]   
 [278. First Bad Version](./src/main/java/com/qeeqez/easy/FirstBadVersion278.java)  
 [283. Move Zeroes](./src/main/java/com/qeeqez/easy/MoveZeroes283.java)  
