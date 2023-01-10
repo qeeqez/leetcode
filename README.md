@@ -32,6 +32,7 @@
 [344. Reverse String](./src/main/java/com/qeeqez/easy/ReverseString344.java)  
 [367. Valid Perfect Square](./src/main/java/com/qeeqez/easy/ValidPerfectSquare367.java)  
 [374. Guess Number Higher or Lower](./src/main/java/com/qeeqez/easy/GuessNumberHigherOrLower374.java)  
+[392. Is Subsequence](./src/main/java/com/qeeqez/easy/IsSubsequence392.java)  
 [414. Third Maximum Number](./src/main/java/com/qeeqez/easy/ThirdMaximumNumber414.java)  
 [448. Find All Numbers Disappeared in an Array]  
 [485. Max Consecutive Ones]  
