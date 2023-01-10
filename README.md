@@ -71,6 +71,7 @@
 [1859. Sorting the Sentence](./src/main/java/com/qeeqez/easy/SortingSentence1859.java)  
 [1920. Build Array from Permutation](./src/main/java/com/qeeqez/easy/BuildArrayFromPermutation1920.java)  
 [1929. Concatenation of Array](./src/main/java/com/qeeqez/easy/ConcatentaionOfArray1929.java)  
+[1991. Find the Middle Index in Array](./src/main/java/com/qeeqez/easy/FindMiddleIndexInArray1991.java)  
 [2011. Final Value of Variable After Performing Operations](./src/main/java/com/qeeqez/easy/FinalValueVaruableAfterOperations2011.java)  
 [2114. Maximum Number of Words Found in Sentences](./src/main/java/com/qeeqez/easy/MaxNumberWordsFoundInSentences2114.java)  
 [2194. Cells in a Range on an Excel Sheet](./src/main/java/com/qeeqez/easy/CellsRangeExcel2194.java)  
