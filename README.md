@@ -22,6 +22,7 @@
 [88. Merge Sorted Array](./src/main/java/com/qeeqez/easy/MergeSortedArray88.java)  
 [118. Pascal's Triangle](./src/main/java/com/qeeqez/easy/PascalsTriangle118.java)  
 [119. Pascal's Triangle II](./src/main/java/com/qeeqez/easy/PascalsTriangleII119.java)  
+[121. Best Time to Buy and Sell Stock](./src/main/java/com/qeeqez/easy/BestTimeToBuySellStock121.java)  
 [169. Majority Element](./src/main/java/com/qeeqez/easy/MajorityElement169.java)  
 [217. Contains Duplicate](./src/main/java/com/qeeqez/easy/ContainsDuplicate217.java)  
 [270. Closest Binary Search Tree Value]   
