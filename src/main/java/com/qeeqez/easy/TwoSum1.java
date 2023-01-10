@@ -20,16 +20,13 @@ public class TwoSum1 {
         int[] output = {0, 0};
 
         for (int i = 0; i < nums.length; i++) {
-            numsMap.put(nums[i], i);
-        }
-
-        for (int i = 0; i < nums.length; i++) {
             int secondNumber = target - nums[i];
-            if (numsMap.containsKey(secondNumber) && numsMap.get(secondNumber) != i) {
-                output[0] = i;
-                output[1] = numsMap.get(secondNumber);
+            if (numsMap.containsKey(secondNumber)) {
+                output[1] = i;
+                output[0] = numsMap.get(secondNumber);
                 return output;
             }
+            numsMap.put(nums[i], i);
         }
         return output;
     }
