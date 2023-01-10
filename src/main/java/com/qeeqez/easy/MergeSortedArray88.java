@@ -16,35 +16,22 @@ package com.qeeqez.easy;
  * nums2 has a length of n.
  */
 public class MergeSortedArray88 {
+
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         if (n == 0) {
             return;
         }
+        n--;
+        m--;
 
-        int[] outArray = new int[m + n];
-        int i = 0;
-        int j = 0;
-
-        if (m == 0) {
-            for (i = 0; i < nums1.length; i++) {
-                nums1[i] = nums2[i];
-            }
-            return;
-        }
-        while (i < m || j < n) {
-            if (j == n) {
-                outArray[i + j] = nums1[i];
-                i++;
-            } else if (nums1[i] < nums2[j] && i < m) {
-                outArray[i + j] = nums1[i];
-                i++;
+        for (int i = nums1.length - 1; i >= 0; i--) {
+            if (m < 0 || n >= 0 && nums2[n] > nums1[m]) {
+                nums1[i] = nums2[n];
+                n--;
             } else {
-                outArray[i + j] = nums2[j];
-                j++;
+                nums1[i] = nums1[m];
+                m--;
             }
-        }
-        for (i = 0; i < nums1.length; i++) {
-            nums1[i] = outArray[i];
         }
     }
 }

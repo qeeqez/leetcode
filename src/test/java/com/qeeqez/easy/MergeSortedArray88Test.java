@@ -46,4 +46,17 @@ public class MergeSortedArray88Test {
         solution.merge(nums1, m, nums2, n);
         assertArrayEquals(output, nums1);
     }
+
+    @Test
+    public void testCase4() {
+        int[] nums1 = {0, 0, 0};
+        int m = 0;
+        int[] nums2 = {1, 2, 3};
+        int n = 3;
+
+        int[] output = {1, 2, 3};
+
+        solution.merge(nums1, m, nums2, n);
+        assertArrayEquals(output, nums1);
+    }
 }
