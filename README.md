@@ -44,7 +44,7 @@
 [905. Sort Array By Parity]  
 [941. Valid Mountain Array]  
 [944. Delete Columns to Make Sorted](./src/main/java/com/qeeqez/easy/SplitStringInBalancedStrings1221.java)  
-[977. Squares of a Sorted Array]  
+[977. Squares of a Sorted Array](./src/main/java/com/qeeqez/easy/SquaresOfSortedArray977.java)  
 [1051. Height Checker]  
 [1089. Duplicate Zeros]  
 [1108. Defanging an IP Address](./src/main/java/com/qeeqez/easy/DefangingIPAddress1108.java)  
