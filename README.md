@@ -20,6 +20,7 @@
 [67. Add Binary](./src/main/java/com/qeeqez/easy/AddBinary67.java)
 [69. Sqrt(x)](./src/main/java/com/qeeqez/easy/SqrtX69.java)  
 [88. Merge Sorted Array](./src/main/java/com/qeeqez/easy/MergeSortedArray88.java)  
+[118. Pascal's Triangle](./src/main/java/com/qeeqez/easy/PascalsTriangle118.java)  
 [169. Majority Element](./src/main/java/com/qeeqez/easy/MajorityElement169.java)  
 [217. Contains Duplicate](./src/main/java/com/qeeqez/easy/ContainsDuplicate217.java)  
 [270. Closest Binary Search Tree Value]   
