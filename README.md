@@ -39,6 +39,7 @@
 [520. Detect Capital](./src/main/java/com/qeeqez/easy/DetectCapital520.java)  
 [521. Longest Uncommon Subsequence I](./src/main/java/com/qeeqez/easy/LongestUncommonSubsequence521.java)
 [557. Reverse Words in a String III](./src/main/java/com/qeeqez/easy/ReverseWordsInStringIII557.java)
+[566. Reshape the Matrix](./src/main/java/com/qeeqez/easy/ReshapeMatrix566.java)  
 [704. Binary Search](./src/main/java/com/qeeqez/easy/BinarySearch704.java)  
 [724. Find Pivot Index](./src/main/java/com/qeeqez/easy/FindPivotIndex724.java)  
 [771. Jewels and Stones](./src/main/java/com/qeeqez/easy/JewelsAndStones771.java)  
