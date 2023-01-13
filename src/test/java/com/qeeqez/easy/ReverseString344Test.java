@@ -25,4 +25,13 @@ public class ReverseString344Test {
         solution.reverseString(s);
         assertArrayEquals(output, s);
     }
+
+    @Test
+    public void testCase3() {
+        char[] s = {'A'};
+        char[] output = {'A'};
+
+        solution.reverseString(s);
+        assertArrayEquals(output, s);
+    }
 }
