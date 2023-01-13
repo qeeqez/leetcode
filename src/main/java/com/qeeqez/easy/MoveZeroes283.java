@@ -21,8 +21,20 @@ public class MoveZeroes283 {
             }
         }
 
-        for (int i = nums.length - 1; i > nums.length - countZeros - 1; i--) {
+        for (int i = nums.length - countZeros; i < nums.length; i++) {
             nums[i] = 0;
+        }
+    }
+
+    public void moveZeroesSingleLoop(int[] nums) {
+        int j = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != 0) {
+                nums[j] = nums[i];
+                if (i != j) nums[i] = 0;
+                j++;
+            }
         }
     }
 }

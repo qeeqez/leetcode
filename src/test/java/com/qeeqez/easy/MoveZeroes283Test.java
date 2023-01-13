@@ -25,4 +25,22 @@ public class MoveZeroes283Test {
         solution.moveZeroes(nums);
         assertArrayEquals(output, nums);
     }
+
+    @Test
+    public void testCase3() {
+        int[] nums = {0, 1, 0, 3, 12};
+        int[] output = {1, 3, 12, 0, 0};
+
+        solution.moveZeroesSingleLoop(nums);
+        assertArrayEquals(output, nums);
+    }
+
+    @Test
+    public void testCase4() {
+        int[] nums = {0};
+        int[] output = {0};
+
+        solution.moveZeroesSingleLoop(nums);
+        assertArrayEquals(output, nums);
+    }
 }
