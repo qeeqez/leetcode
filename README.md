@@ -42,6 +42,7 @@
 [704. Binary Search](./src/main/java/com/qeeqez/easy/BinarySearch704.java)  
 [724. Find Pivot Index](./src/main/java/com/qeeqez/easy/FindPivotIndex724.java)  
 [771. Jewels and Stones](./src/main/java/com/qeeqez/easy/JewelsAndStones771.java)  
+[876. Middle of the Linked List](./src/main/java/com/qeeqez/easy/MiddleLinkedList876.java)  
 [905. Sort Array By Parity]  
 [941. Valid Mountain Array]  
 [944. Delete Columns to Make Sorted](./src/main/java/com/qeeqez/easy/SplitStringInBalancedStrings1221.java)  
