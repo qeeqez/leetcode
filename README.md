@@ -37,7 +37,8 @@
 [448. Find All Numbers Disappeared in an Array]  
 [485. Max Consecutive Ones]  
 [520. Detect Capital](./src/main/java/com/qeeqez/easy/DetectCapital520.java)  
-[521. Longest Uncommon Subsequence I](./src/main/java/com/qeeqez/easy/LongestUncommonSubsequence521.java)  
+[521. Longest Uncommon Subsequence I](./src/main/java/com/qeeqez/easy/LongestUncommonSubsequence521.java)
+[557. Reverse Words in a String III](./src/main/java/com/qeeqez/easy/ReverseWordsInStringIII557.java)
 [704. Binary Search](./src/main/java/com/qeeqez/easy/BinarySearch704.java)  
 [724. Find Pivot Index](./src/main/java/com/qeeqez/easy/FindPivotIndex724.java)  
 [771. Jewels and Stones](./src/main/java/com/qeeqez/easy/JewelsAndStones771.java)  
@@ -80,6 +81,7 @@
 [2520. Count the Digits That Divide a Number](./src/main/java/com/qeeqez/easy/CountDigitsDivideNumber2520.java)
 
 ### Medium
+
 [28. Find the Index of the First Occurrence in a String]  
 [33. Search in Rotated Sorted Array]  
 [34. Find First and Last Position of Element in Sorted Array]  
