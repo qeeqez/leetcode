@@ -25,6 +25,7 @@
 [121. Best Time to Buy and Sell Stock](./src/main/java/com/qeeqez/easy/BestTimeToBuySellStock121.java)  
 [141. Linked List Cycle](./src/main/java/com/qeeqez/easy/LinkedListCycle141.java)  
 [169. Majority Element](./src/main/java/com/qeeqez/easy/MajorityElement169.java)  
+[203. Remove Linked List Elements](./src/main/java/com/qeeqez/easy/RemoveLinkedListElements203.java)  
 [217. Contains Duplicate](./src/main/java/com/qeeqez/easy/ContainsDuplicate217.java)  
 [242. Valid Anagram](./src/main/java/com/qeeqez/easy/ValidAnagram242.java)  
 [270. Closest Binary Search Tree Value]   
