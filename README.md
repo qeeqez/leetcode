@@ -30,6 +30,7 @@
 [206. Reverse Linked List](./src/main/java/com/qeeqez/easy/ReverseLinkedList206.java)  
 [217. Contains Duplicate](./src/main/java/com/qeeqez/easy/ContainsDuplicate217.java)  
 [242. Valid Anagram](./src/main/java/com/qeeqez/easy/ValidAnagram242.java)  
+[242. Valid Anagram](./src/main/java/com/qeeqez/easy/ValidAnagram242.java)  
 [270. Closest Binary Search Tree Value]   
 [278. First Bad Version](./src/main/java/com/qeeqez/easy/FirstBadVersion278.java)  
 [283. Move Zeroes](./src/main/java/com/qeeqez/easy/MoveZeroes283.java)  
