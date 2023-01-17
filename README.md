@@ -19,6 +19,7 @@
 [35. Search Insert Position](./src/main/java/com/qeeqez/easy/SearchInsertPosition35.java)
 [67. Add Binary](./src/main/java/com/qeeqez/easy/AddBinary67.java)
 [69. Sqrt(x)](./src/main/java/com/qeeqez/easy/SqrtX69.java)  
+[83. Remove Duplicates from Sorted List](./src/main/java/com/qeeqez/easy/RemoveDuplicatesFromSortedList83.java)  
 [88. Merge Sorted Array](./src/main/java/com/qeeqez/easy/MergeSortedArray88.java)  
 [118. Pascal's Triangle](./src/main/java/com/qeeqez/easy/PascalsTriangle118.java)  
 [119. Pascal's Triangle II](./src/main/java/com/qeeqez/easy/PascalsTriangleII119.java)  
