@@ -36,4 +36,33 @@ public class ListNode {
         }
         return dummy.next;
     }
+
+    /**
+     * Construct a linked list using given integer array.
+     * Make a Cycle from last Node to selected Node
+     *
+     * @param nums    input integer array
+     * @param cycleTo cycle to Node in this position
+     * @return head node of the constructed list
+     */
+    public static ListNode constructLinkedListCycled(int[] nums, int cycleTo) {
+        if (cycleTo < 0) {
+            return constructLinkedList(nums);
+        }
+
+        ListNode dummy = new ListNode(-1);
+        ListNode node = dummy;
+        ListNode cycleToNode = dummy;
+
+        for (int i = 0; i < nums.length; i++) {
+            node.next = new ListNode(nums[i]);
+            node = node.next;
+            if (i == cycleTo) {
+                cycleToNode = node;
+            }
+        }
+        node.next = cycleToNode;
+
+        return dummy.next;
+    }
 }
