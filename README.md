@@ -48,6 +48,7 @@
 [383. Ransom Note](./src/main/java/com/qeeqez/easy/RansomNote383.java)  
 [387. First Unique Character in a String](./src/main/java/com/qeeqez/easy/FirstUniqueCharacterString387.java)  
 [392. Is Subsequence](./src/main/java/com/qeeqez/easy/IsSubsequence392.java)  
+[409. Longest Palindrome](./src/main/java/com/qeeqez/easy/LongestPalindrome409.java)  
 [414. Third Maximum Number](./src/main/java/com/qeeqez/easy/ThirdMaximumNumber414.java)  
 [441. Arranging Coins](./src/main/java/com/qeeqez/easy/ArrangingCoins441.java)  
 [448. Find All Numbers Disappeared in an Array]  
