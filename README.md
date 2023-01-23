@@ -26,6 +26,7 @@
 [121. Best Time to Buy and Sell Stock](./src/main/java/com/qeeqez/easy/BestTimeToBuySellStock121.java)  
 [141. Linked List Cycle](./src/main/java/com/qeeqez/easy/LinkedListCycle141.java)  
 [169. Majority Element](./src/main/java/com/qeeqez/easy/MajorityElement169.java)  
+[183. Customers Who Never Order](./sql/183.CustomersWhoNeverOrder.sql)  
 [192. Word Frequency](./shell/192WordFrequency.sh)  
 [193. Valid Phone Numbers](./shell/193ValidPhoneNumbers.sh)  
 [194. Transpose File](./shell/194TransposeFile.sh)  
