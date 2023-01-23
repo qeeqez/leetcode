@@ -27,6 +27,7 @@
 [141. Linked List Cycle](./src/main/java/com/qeeqez/easy/LinkedListCycle141.java)  
 [169. Majority Element](./src/main/java/com/qeeqez/easy/MajorityElement169.java)  
 [193. Valid Phone Numbers](./shell/193ValidPhoneNumbers.sh)  
+[195. Tenth Line](./shell/195TenthLine.sh)  
 [203. Remove Linked List Elements](./src/main/java/com/qeeqez/easy/RemoveLinkedListElements203.java)  
 [206. Reverse Linked List](./src/main/java/com/qeeqez/easy/ReverseLinkedList206.java)  
 [217. Contains Duplicate](./src/main/java/com/qeeqez/easy/ContainsDuplicate217.java)  
