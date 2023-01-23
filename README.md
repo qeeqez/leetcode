@@ -28,6 +28,7 @@
 [169. Majority Element](./src/main/java/com/qeeqez/easy/MajorityElement169.java)  
 [192. Word Frequency](./shell/192WordFrequency.sh)  
 [193. Valid Phone Numbers](./shell/193ValidPhoneNumbers.sh)  
+[194. Transpose File](./shell/194TransposeFile.sh)  
 [195. Tenth Line](./shell/195TenthLine.sh)  
 [203. Remove Linked List Elements](./src/main/java/com/qeeqez/easy/RemoveLinkedListElements203.java)  
 [206. Reverse Linked List](./src/main/java/com/qeeqez/easy/ReverseLinkedList206.java)  
