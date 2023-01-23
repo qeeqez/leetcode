@@ -89,6 +89,7 @@
 [1672. Richest Customer Wealth](./src/main/java/com/qeeqez/easy/RichestCustomerWealth1672.java)  
 [1678. Goal Parser Interpretation](./src/main/java/com/qeeqez/easy/GoalParserInterpretation1678.java)  
 [1720. Decode XORed Array](./src/main/java/com/qeeqez/easy/DecodeXORedArray1720.java)  
+[1757. Recyclable and Low Fat Products](./sql/1757.RecyclableLowFatProducts.sql)  
 [1773. Count Items Matching a Rule](./src/main/java/com/qeeqez/easy/CountMatches1773.java)  
 [1859. Sorting the Sentence](./src/main/java/com/qeeqez/easy/SortingSentence1859.java)  
 [1920. Build Array from Permutation](./src/main/java/com/qeeqez/easy/BuildArrayFromPermutation1920.java)  
