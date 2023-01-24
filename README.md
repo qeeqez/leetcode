@@ -116,6 +116,7 @@
 [153. Find Minimum in Rotated Sorted Array]  
 [162. Find Peak Element]  
 [189. Rotate Array]  
+[299. Bulls and Cows](./src/main/java/com/qeeqez/medium/RotateArray189.java)
 [394. Decode String](./src/main/java/com/qeeqez/medium/DecodeString394.java)   
 [487. Max Consecutive Ones II]  
 [522. Longest Uncommon Subsequence II](./src/main/java/com/qeeqez/medium/LongestUncommonSubsequence522.java)
