@@ -70,6 +70,7 @@
 [941. Valid Mountain Array]  
 [944. Delete Columns to Make Sorted](./src/main/java/com/qeeqez/easy/SplitStringInBalancedStrings1221.java)  
 [977. Squares of a Sorted Array](./src/main/java/com/qeeqez/easy/SquaresOfSortedArray977.java)  
+[1046. Last Stone Weight](./src/main/java/com/qeeqez/easy/LastStoneWeight1046.java)   
 [1051. Height Checker]  
 [1089. Duplicate Zeros]  
 [1108. Defanging an IP Address](./src/main/java/com/qeeqez/easy/DefangingIPAddress1108.java)  
@@ -112,7 +113,7 @@
 [28. Find the Index of the First Occurrence in a String]  
 [33. Search in Rotated Sorted Array]  
 [34. Find First and Last Position of Element in Sorted Array]  
-[53. Maximum Subarray](./src/main/java/com/qeeqez/medium/MaximumSubarray53.java)
+[53. Maximum Subarray](./src/main/java/com/qeeqez/medium/MaximumSubarray53.java)  
 [153. Find Minimum in Rotated Sorted Array]  
 [162. Find Peak Element]  
 [189. Rotate Array]  
