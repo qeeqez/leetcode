@@ -117,6 +117,7 @@
 [33. Search in Rotated Sorted Array]  
 [34. Find First and Last Position of Element in Sorted Array]  
 [53. Maximum Subarray](./src/main/java/com/qeeqez/medium/MaximumSubarray53.java)  
+[62. Unique Paths](./src/main/java/com/qeeqez/medium/UniquePaths62.java)  
 [153. Find Minimum in Rotated Sorted Array]  
 [162. Find Peak Element]  
 [189. Rotate Array]  
