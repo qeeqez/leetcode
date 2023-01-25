@@ -133,5 +133,6 @@
 [487. Max Consecutive Ones II]  
 [522. Longest Uncommon Subsequence II](./src/main/java/com/qeeqez/medium/LongestUncommonSubsequence522.java)
 [692. Top K Frequent Words](./src/main/java/com/qeeqez/medium/TopKFrequentWords692.java)
+[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./src/main/java/com/qeeqez/medium/PartitioningIntoMinimumNumberDeciBinaryNumbers1689.java)
 
 ### Hard
