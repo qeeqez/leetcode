@@ -96,6 +96,7 @@
 [1486. XOR Operation in an Array](./src/main/java/com/qeeqez/easy/XOROperationArray1486.java)  
 [1512. Number of Good Pairs](./src/main/java/com/qeeqez/easy/NumberOfGoodPairs1512.java)  
 [1518. Water Bottles](./src/main/java/com/qeeqez/easy/WaterBottles1518.java)  
+[1527. Patients With a Condition](./sql/1527.PatientsWithCondition.sql)  
 [1528. Shuffle String](./src/main/java/com/qeeqez/easy/ShuffleString1528.java)  
 [1539. Kth Missing Positive Number](./src/main/java/com/qeeqez/easy/KthMissingPositiveNumber1539.java)
 [1608. Special Array With X Elements Greater Than or Equal X](./src/main/java/com/qeeqez/easy/SpecialArrayXElementsGreaterOrEqualX1608.java)
@@ -126,7 +127,7 @@
 [62. Unique Paths](./src/main/java/com/qeeqez/medium/UniquePaths62.java)  
 [153. Find Minimum in Rotated Sorted Array]  
 [162. Find Peak Element]  
-[189. Rotate Array]  
+[189. Rotate Array](./src/main/java/com/qeeqez/medium/RotateArray189.java)   
 [299. Bulls and Cows](./src/main/java/com/qeeqez/medium/RotateArray189.java)
 [394. Decode String](./src/main/java/com/qeeqez/medium/DecodeString394.java)   
 [487. Max Consecutive Ones II]  
