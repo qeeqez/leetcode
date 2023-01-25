@@ -101,6 +101,7 @@
 [1757. Recyclable and Low Fat Products](./sql/1757.RecyclableLowFatProducts.sql)  
 [1773. Count Items Matching a Rule](./src/main/java/com/qeeqez/easy/CountMatches1773.java)  
 [1859. Sorting the Sentence](./src/main/java/com/qeeqez/easy/SortingSentence1859.java)  
+[1873. Calculate Special Bonus](./sql/183.CustomersWhoNeverOrder.sql)   
 [1920. Build Array from Permutation](./src/main/java/com/qeeqez/easy/BuildArrayFromPermutation1920.java)  
 [1929. Concatenation of Array](./src/main/java/com/qeeqez/easy/ConcatentaionOfArray1929.java)  
 [1991. Find the Middle Index in Array](./src/main/java/com/qeeqez/easy/FindMiddleIndexInArray1991.java)  
