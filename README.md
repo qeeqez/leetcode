@@ -122,6 +122,7 @@
 [1920. Build Array from Permutation](./src/main/java/com/qeeqez/easy/BuildArrayFromPermutation1920.java)  
 [1929. Concatenation of Array](./src/main/java/com/qeeqez/easy/ConcatentaionOfArray1929.java)  
 [1873. Calculate Special Bonus](./sql/1965.EmployeesWithMissingInformation.sql)
+[1890. The Latest Login in 2020](./sql/1890.TheLatestLoginIn2020.sql)  
 [1991. Find the Middle Index in Array](./src/main/java/com/qeeqez/easy/FindMiddleIndexInArray1991.java)  
 [2011. Final Value of Variable After Performing Operations](./src/main/java/com/qeeqez/easy/FinalValueVaruableAfterOperations2011.java)  
 [2114. Maximum Number of Words Found in Sentences](./src/main/java/com/qeeqez/easy/MaxNumberWordsFoundInSentences2114.java)  
