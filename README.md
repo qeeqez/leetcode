@@ -111,6 +111,7 @@
 [1678. Goal Parser Interpretation](./src/main/java/com/qeeqez/easy/GoalParserInterpretation1678.java)  
 [1693. Daily Leads and Partners](./sql/1693.DailyLeadsAndPartners.sql)
 [1720. Decode XORed Array](./src/main/java/com/qeeqez/easy/DecodeXORedArray1720.java)  
+[1729. Find Followers Count](./sql/1729.FindFollowersCount.sql)   
 [1757. Recyclable and Low Fat Products](./sql/1757.RecyclableLowFatProducts.sql)  
 [1773. Count Items Matching a Rule](./src/main/java/com/qeeqez/easy/CountMatches1773.java)  
 [1795. Rearrange Products Table](./sql/1795.RearrangeProductsTable.sql)   
