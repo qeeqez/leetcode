@@ -58,6 +58,7 @@
 [448. Find All Numbers Disappeared in an Array]  
 [485. Max Consecutive Ones]  
 [509. Fibonacci Number](./src/main/java/com/qeeqez/easy/FibonacciNumber509.java)  
+[511. Game Play Analysis I](./sql/511.GamePlayAnalysisI.sql)
 [520. Detect Capital](./src/main/java/com/qeeqez/easy/DetectCapital520.java)  
 [521. Longest Uncommon Subsequence I](./src/main/java/com/qeeqez/easy/LongestUncommonSubsequence521.java)
 [557. Reverse Words in a String III](./src/main/java/com/qeeqez/easy/ReverseWordsInStringIII557.java)
