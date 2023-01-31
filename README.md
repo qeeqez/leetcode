@@ -109,6 +109,7 @@
 [1667. Fix Names in a Table](./sql/1667.FixNamesInTable.sql)  
 [1672. Richest Customer Wealth](./src/main/java/com/qeeqez/easy/RichestCustomerWealth1672.java)  
 [1678. Goal Parser Interpretation](./src/main/java/com/qeeqez/easy/GoalParserInterpretation1678.java)  
+[1693. Daily Leads and Partners](./sql/1693.DailyLeadsAndPartners.sql)
 [1720. Decode XORed Array](./src/main/java/com/qeeqez/easy/DecodeXORedArray1720.java)  
 [1757. Recyclable and Low Fat Products](./sql/1757.RecyclableLowFatProducts.sql)  
 [1773. Count Items Matching a Rule](./src/main/java/com/qeeqez/easy/CountMatches1773.java)  
