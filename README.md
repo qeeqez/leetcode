@@ -63,6 +63,7 @@
 [557. Reverse Words in a String III](./src/main/java/com/qeeqez/easy/ReverseWordsInStringIII557.java)
 [566. Reshape the Matrix](./src/main/java/com/qeeqez/easy/ReshapeMatrix566.java)  
 [584. Find Customer Referee](./sql/595.BigCountries.sql)   
+[586. Customer Placing the Largest Number of Orders](./sql/586.CustomerPlacingLargestNumberOrders.sql)   
 [595. Big Countries](./sql/595.BigCountries.sql)  
 [607. Sales Person](./sql/197.RisingTemperature.sql)  
 [627. Swap Salary](./sql/627.SwapSalary.sql)  
