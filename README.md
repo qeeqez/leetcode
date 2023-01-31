@@ -82,6 +82,7 @@
 [1051. Height Checker]  
 [1089. Duplicate Zeros]  
 [1108. Defanging an IP Address](./src/main/java/com/qeeqez/easy/DefangingIPAddress1108.java)  
+[1141. User Activity for the Past 30 Days I](./sql/1141.UserActivityPast30DaysI.sql)  
 [1148. Article Views I](./sql/1148.ArticleViewsI.sql)  
 [1207. Unique Number of Occurrences]    
 [1221. Split a String in Balanced Strings](./src/main/java/com/qeeqez/easy/SplitStringInBalancedStrings1221.java)  
