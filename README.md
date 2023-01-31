@@ -97,6 +97,7 @@
 [1365. How Many Numbers Are Smaller Than the Current Number](./src/main/java/com/qeeqez/easy/HowManyNumbersAreSmallerThanCurrent1365.java)  
 [1385. Find the Distance Value Between Two Arrays](./src/main/java/com/qeeqez/easy/FindDistanceValueBetweenTwoArrays1385.java)  
 [1389. Create Target Array in the Given Order](./src/main/java/com/qeeqez/easy/CreateTargetArrayGivenOrder1389.java)  
+[1407. Top Travellers](./sql/1407.TopTravellers.sql)  
 [1470. Shuffle the Array](./src/main/java/com/qeeqez/easy/ShuffleArray1470.java)  
 [1480. Running Sum of 1d Array](./src/main/java/com/qeeqez/easy/RunningSumOf1dArray1480.java)  
 [1484. Group Sold Products By The Date](./sql/1484.GroupSoldProductsByTheDate.sql)  
