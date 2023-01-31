@@ -34,6 +34,7 @@
 [194. Transpose File](./shell/194TransposeFile.sh)  
 [195. Tenth Line](./shell/195TenthLine.sh)  
 [196. Delete Duplicate Emails](./sql/196.DeleteDuplicateEmails.sql)   
+[197. Rising Temperature](./sql/197.RisingTemperature.sql)  
 [203. Remove Linked List Elements](./src/main/java/com/qeeqez/easy/RemoveLinkedListElements203.java)
 [205. Isomorphic Strings](./src/main/java/com/qeeqez/easy/IsomorphicStrings205.java)  
 [206. Reverse Linked List](./src/main/java/com/qeeqez/easy/ReverseLinkedList206.java)  
