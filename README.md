@@ -148,6 +148,7 @@
 [394. Decode String](./src/main/java/com/qeeqez/medium/DecodeString394.java)   
 [487. Max Consecutive Ones II]  
 [522. Longest Uncommon Subsequence II](./src/main/java/com/qeeqez/medium/LongestUncommonSubsequence522.java)
+[608. Tree Node](./sql/608.TreeNode.sql)  
 [692. Top K Frequent Words](./src/main/java/com/qeeqez/medium/TopKFrequentWords692.java)
 [1158. Market Analysis I](./sql/1158.MarketAnalysisI.sql)  
 [1393. Capital Gain/Loss](./sql/1393.CapitalGainLoss.sql)  
