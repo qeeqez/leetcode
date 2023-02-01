@@ -84,6 +84,7 @@
 [1046. Last Stone Weight](./src/main/java/com/qeeqez/easy/LastStoneWeight1046.java)  
 [1050. Actors and Directors Who Cooperated At Least Three Times](./sql/1050.ActorsDirectorsWhoCooperatedAtLeastThreeTimes.sql)  
 [1051. Height Checker]  
+[1084. Sales Analysis III](./sql/1084.SalesAnalysisIII.sql)  
 [1089. Duplicate Zeros]  
 [1108. Defanging an IP Address](./src/main/java/com/qeeqez/easy/DefangingIPAddress1108.java)  
 [1141. User Activity for the Past 30 Days I](./sql/1141.UserActivityPast30DaysI.sql)  
