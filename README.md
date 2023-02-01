@@ -28,6 +28,7 @@
 [141. Linked List Cycle](./src/main/java/com/qeeqez/easy/LinkedListCycle141.java)  
 [169. Majority Element](./src/main/java/com/qeeqez/easy/MajorityElement169.java)  
 [175. Combine Two Tables](./sql/175.CombineTwoTables.sql)  
+[182. Duplicate Emails](./sql/182.DuplicateEmails.sql)  
 [183. Customers Who Never Order](./sql/183.CustomersWhoNeverOrder.sql)  
 [192. Word Frequency](./shell/192WordFrequency.sh)  
 [193. Valid Phone Numbers](./shell/193ValidPhoneNumbers.sh)  
