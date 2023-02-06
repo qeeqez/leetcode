@@ -146,6 +146,7 @@
 [62. Unique Paths](./src/main/java/com/qeeqez/medium/UniquePaths62.java)  
 [153. Find Minimum in Rotated Sorted Array]  
 [162. Find Peak Element]  
+[167. Two Sum II - Input Array Is Sorted](./src/main/java/com/qeeqez/medium/TwoSumIInputArraySorted167.java)  
 [176. Second Highest Salary](./sql/176.SecondHighestSalary.sql)  
 [189. Rotate Array](./src/main/java/com/qeeqez/medium/RotateArray189.java)   
 [299. Bulls and Cows](./src/main/java/com/qeeqez/medium/RotateArray189.java)
