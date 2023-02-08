@@ -142,6 +142,7 @@
 [28. Find the Index of the First Occurrence in a String]  
 [33. Search in Rotated Sorted Array]  
 [34. Find First and Last Position of Element in Sorted Array]  
+[36. Valid Sudoku](./src/main/java/com/qeeqez/medium/ValidSudoku36.java)
 [53. Maximum Subarray](./src/main/java/com/qeeqez/medium/MaximumSubarray53.java)  
 [62. Unique Paths](./src/main/java/com/qeeqez/medium/UniquePaths62.java)  
 [153. Find Minimum in Rotated Sorted Array]  
