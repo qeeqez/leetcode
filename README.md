@@ -145,6 +145,7 @@
 [36. Valid Sudoku](./src/main/java/com/qeeqez/medium/ValidSudoku36.java)
 [53. Maximum Subarray](./src/main/java/com/qeeqez/medium/MaximumSubarray53.java)  
 [62. Unique Paths](./src/main/java/com/qeeqez/medium/UniquePaths62.java)  
+[74. Search a 2D Matrix](./src/main/java/com/qeeqez/medium/Search2DMatrix74.java)
 [153. Find Minimum in Rotated Sorted Array]  
 [162. Find Peak Element]  
 [167. Two Sum II - Input Array Is Sorted](./src/main/java/com/qeeqez/medium/TwoSumIInputArraySorted167.java)  
