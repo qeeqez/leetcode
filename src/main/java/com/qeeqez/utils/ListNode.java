@@ -11,6 +11,11 @@ public class ListNode {
         this.val = val;
     }
 
+    public ListNode(int val, ListNode next) {
+        this.val = val;
+        this.next = next;
+    }
+
     public static boolean isSameList(ListNode head1, ListNode head2) {
         if (head1 == null) {
             return head2 == null;
