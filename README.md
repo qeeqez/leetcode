@@ -155,7 +155,8 @@
 [299. Bulls and Cows](./src/main/java/com/qeeqez/medium/RotateArray189.java)
 [394. Decode String](./src/main/java/com/qeeqez/medium/DecodeString394.java)   
 [487. Max Consecutive Ones II]  
-[522. Longest Uncommon Subsequence II](./src/main/java/com/qeeqez/medium/LongestUncommonSubsequence522.java)
+[522. Longest Uncommon Subsequence II](./src/main/java/com/qeeqez/medium/LongestUncommonSubsequence522.java)  
+[567. Permutation in String](./src/main/java/com/qeeqez/medium/PermutationString567.java)  
 [608. Tree Node](./sql/608.TreeNode.sql)  
 [692. Top K Frequent Words](./src/main/java/com/qeeqez/medium/TopKFrequentWords692.java)  
 [19. Remove Nth Node From End of List](./src/main/java/com/qeeqez/medium/RemoveNthNodeFromEndOfList19.java)  
