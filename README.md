@@ -139,6 +139,7 @@
 
 ### Medium
 
+[3. Longest Substring Without Repeating Characters](./src/main/java/com/qeeqez/medium/LongestSubstringWithoutRepeatingChars3.java)  
 [28. Find the Index of the First Occurrence in a String]  
 [33. Search in Rotated Sorted Array]  
 [34. Find First and Last Position of Element in Sorted Array]  
