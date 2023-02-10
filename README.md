@@ -132,6 +132,7 @@
 [1991. Find the Middle Index in Array](./src/main/java/com/qeeqez/easy/FindMiddleIndexInArray1991.java)  
 [2011. Final Value of Variable After Performing Operations](./src/main/java/com/qeeqez/easy/FinalValueVaruableAfterOperations2011.java)  
 [2114. Maximum Number of Words Found in Sentences](./src/main/java/com/qeeqez/easy/MaxNumberWordsFoundInSentences2114.java)  
+[2160. Minimum Sum of Four Digit Number After Splitting Digits](./src/main/java/com/qeeqez/easy/MinimumSumFourDigitNumberAfterSplittingDigits2160.java)  
 [2194. Cells in a Range on an Excel Sheet](./src/main/java/com/qeeqez/easy/CellsRangeExcel2194.java)  
 [2235. Add Two Integers](./src/main/java/com/qeeqez/easy/AddTwoIntegers2235.java)  
 [2413. Smallest Even Multiple](./src/main/java/com/qeeqez/easy/SmallestEvenMultiple2413.java)  
