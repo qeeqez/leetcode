@@ -136,6 +136,7 @@
 [2160. Minimum Sum of Four Digit Number After Splitting Digits](./src/main/java/com/qeeqez/easy/MinimumSumFourDigitNumberAfterSplittingDigits2160.java)  
 [2194. Cells in a Range on an Excel Sheet](./src/main/java/com/qeeqez/easy/CellsRangeExcel2194.java)  
 [2235. Add Two Integers](./src/main/java/com/qeeqez/easy/AddTwoIntegers2235.java)  
+[2325. Decode the Message](./src/main/java/com/qeeqez/easy/DecodeMessage2325.java)  
 [2413. Smallest Even Multiple](./src/main/java/com/qeeqez/easy/SmallestEvenMultiple2413.java)  
 [2469. Convert the Temperature](./src/main/java/com/qeeqez/easy/ConvertTheTemperature2469.java)  
 [2520. Count the Digits That Divide a Number](./src/main/java/com/qeeqez/easy/CountDigitsDivideNumber2520.java)
