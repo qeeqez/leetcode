@@ -159,6 +159,7 @@
 [567. Permutation in String](./src/main/java/com/qeeqez/medium/PermutationString567.java)  
 [608. Tree Node](./sql/608.TreeNode.sql)  
 [692. Top K Frequent Words](./src/main/java/com/qeeqez/medium/TopKFrequentWords692.java)  
+[695. Max Area of Island](./src/main/java/com/qeeqez/medium/MaxAreaOfIsland695.java)  
 [19. Remove Nth Node From End of List](./src/main/java/com/qeeqez/medium/RemoveNthNodeFromEndOfList19.java)  
 [1158. Market Analysis I](./sql/1158.MarketAnalysisI.sql)  
 [1393. Capital Gain/Loss](./sql/1393.CapitalGainLoss.sql)  
