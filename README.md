@@ -138,6 +138,7 @@
 [2413. Smallest Even Multiple](./src/main/java/com/qeeqez/easy/SmallestEvenMultiple2413.java)  
 [2469. Convert the Temperature](./src/main/java/com/qeeqez/easy/ConvertTheTemperature2469.java)  
 [2520. Count the Digits That Divide a Number](./src/main/java/com/qeeqez/easy/CountDigitsDivideNumber2520.java)
+[2535. Difference Between Element Sum and Digit Sum of an Array](./src/main/java/com/qeeqez/easy/DifferenceBetweenElementDigitSumArray2535.java)
 
 ### Medium
 
