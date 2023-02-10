@@ -134,6 +134,7 @@
 [2114. Maximum Number of Words Found in Sentences](./src/main/java/com/qeeqez/easy/MaxNumberWordsFoundInSentences2114.java)  
 [2194. Cells in a Range on an Excel Sheet](./src/main/java/com/qeeqez/easy/CellsRangeExcel2194.java)  
 [2235. Add Two Integers](./src/main/java/com/qeeqez/easy/AddTwoIntegers2235.java)  
+[2413. Smallest Even Multiple](./src/main/java/com/qeeqez/easy/SmallestEvenMultiple2413.java)  
 [2469. Convert the Temperature](./src/main/java/com/qeeqez/easy/ConvertTheTemperature2469.java)  
 [2520. Count the Digits That Divide a Number](./src/main/java/com/qeeqez/easy/CountDigitsDivideNumber2520.java)
 
