@@ -28,6 +28,7 @@
 [121. Best Time to Buy and Sell Stock](./src/main/java/com/qeeqez/easy/BestTimeToBuySellStock121.java)  
 [141. Linked List Cycle](./src/main/java/com/qeeqez/easy/LinkedListCycle141.java)  
 [144. Binary Tree Preorder Traversal](./src/main/java/com/qeeqez/easy/BinaryTreePreorderTraversal144.java)  
+[145. Binary Tree Postorder Traversal](./src/main/java/com/qeeqez/easy/BinaryTreePostorderTraversal145.java)
 [169. Majority Element](./src/main/java/com/qeeqez/easy/MajorityElement169.java)  
 [175. Combine Two Tables](./sql/175.CombineTwoTables.sql)  
 [182. Duplicate Emails](./sql/182.DuplicateEmails.sql)  
