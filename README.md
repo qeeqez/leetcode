@@ -127,6 +127,7 @@
 [1757. Recyclable and Low Fat Products](./sql/1757.RecyclableLowFatProducts.sql)  
 [1773. Count Items Matching a Rule](./src/main/java/com/qeeqez/easy/CountMatches1773.java)  
 [1795. Rearrange Products Table](./sql/1795.RearrangeProductsTable.sql)   
+[1832. Check if the Sentence Is Pangram](./src/main/java/com/qeeqez/easy/CheckIfSentencePangram1832.java)  
 [1859. Sorting the Sentence](./src/main/java/com/qeeqez/easy/SortingSentence1859.java)  
 [1965. Employees With Missing Information](./sql/1873.CalculateSpecialBonus.sql)   
 [1920. Build Array from Permutation](./src/main/java/com/qeeqez/easy/BuildArrayFromPermutation1920.java)  
