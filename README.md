@@ -71,6 +71,7 @@
 [586. Customer Placing the Largest Number of Orders](./sql/586.CustomerPlacingLargestNumberOrders.sql)   
 [595. Big Countries](./sql/595.BigCountries.sql)  
 [607. Sales Person](./sql/197.RisingTemperature.sql)  
+[617. Merge Two Binary Trees](./src/main/java/com/qeeqez/easy/MergeTwoBinaryTrees617.java)  
 [627. Swap Salary](./sql/627.SwapSalary.sql)  
 [704. Binary Search](./src/main/java/com/qeeqez/easy/BinarySearch704.java)  
 [724. Find Pivot Index](./src/main/java/com/qeeqez/easy/FindPivotIndex724.java)
