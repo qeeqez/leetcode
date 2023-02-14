@@ -24,6 +24,7 @@
 [88. Merge Sorted Array](./src/main/java/com/qeeqez/easy/MergeSortedArray88.java)  
 [94. Binary Tree Inorder Traversal](./src/main/java/com/qeeqez/easy/BinaryTreeInorderTraversal94.java)  
 [101. Symmetric Tree](./src/main/java/com/qeeqez/easy/SymmetricTree101.java)  
+[104. Maximum Depth of Binary Tree](./src/main/java/com/qeeqez/easy/MaximumDepthBinaryTree104.java)  
 [118. Pascal's Triangle](./src/main/java/com/qeeqez/easy/PascalsTriangle118.java)  
 [119. Pascal's Triangle II](./src/main/java/com/qeeqez/easy/PascalsTriangleII119.java)  
 [121. Best Time to Buy and Sell Stock](./src/main/java/com/qeeqez/easy/BestTimeToBuySellStock121.java)  
