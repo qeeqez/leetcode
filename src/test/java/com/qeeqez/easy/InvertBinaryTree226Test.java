@@ -11,45 +11,24 @@ public class InvertBinaryTree226Test {
 
     @Test
     public void testCase1() {
-        TreeNode root = new TreeNode(4,
-                new TreeNode(2, new TreeNode(1), new TreeNode(3)),
-                new TreeNode(7, new TreeNode(6), new TreeNode(9))
-        );
-
-        TreeNode output = new TreeNode(4,
-                new TreeNode(7, new TreeNode(9), new TreeNode(6)),
-                new TreeNode(2, new TreeNode(3), new TreeNode(1))
-        );
+        TreeNode root = TreeNode.buildTree(new Integer[]{4, 2, 7, 1, 3, 6, 9});
+        TreeNode output = TreeNode.buildTree(new Integer[]{4, 7, 2, 9, 6, 3, 1});
 
         assertTrue(TreeNode.isSameTree(output, solution.invertTree(root)));
     }
 
     @Test
     public void testCase2() {
-        TreeNode root = new TreeNode(4,
-                new TreeNode(2, new TreeNode(1), new TreeNode(3)),
-                new TreeNode(7, null, new TreeNode(9))
-        );
-
-        TreeNode output = new TreeNode(4,
-                new TreeNode(7, new TreeNode(9), null),
-                new TreeNode(2, new TreeNode(3), new TreeNode(1))
-        );
+        TreeNode root = TreeNode.buildTree(new Integer[]{4, 2, 7, 1, 3, null, 9});
+        TreeNode output = TreeNode.buildTree(new Integer[]{4, 7, 2, 9, null, 3, 1});
 
         assertTrue(TreeNode.isSameTree(output, solution.invertTree(root)));
     }
 
     @Test
     public void testCase3() {
-        TreeNode root = new TreeNode(2,
-                new TreeNode(1),
-                new TreeNode(3)
-        );
-
-        TreeNode output = new TreeNode(2,
-                new TreeNode(3),
-                new TreeNode(1)
-        );
+        TreeNode root = TreeNode.buildTree(new Integer[]{2, 1, 3});
+        TreeNode output = TreeNode.buildTree(new Integer[]{2, 3, 1});
 
         assertTrue(TreeNode.isSameTree(output, solution.invertTree(root)));
     }

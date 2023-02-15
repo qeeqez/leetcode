@@ -22,6 +22,34 @@ public class TreeNode {
     }
 
     /**
+     * Builds Binary Tree from list of values
+     *
+     * @param values List of integers representing binary tree, for example [4,2,7,1,3,6,9]
+     * @return TreeNode root
+     */
+    public static TreeNode buildTree(Integer[] values) {
+        TreeNode root = new TreeNode(values[0]);
+        formTree(root, 0, values);
+        return root;
+    }
+
+    private static void formTree(TreeNode root, int rootIndex, Integer[] values) {
+        int n = values.length;
+
+        int leftIndex = 2 * rootIndex + 1;
+        if (leftIndex < n && null != values[leftIndex]) {
+            root.left = new TreeNode(values[leftIndex]);
+            formTree(root.left, leftIndex, values);
+        }
+
+        int rightIndex = 2 * rootIndex + 2;
+        if (rightIndex < n && null != values[rightIndex]) {
+            root.right = new TreeNode(values[rightIndex]);
+            formTree(root.right, rightIndex, values);
+        }
+    }
+
+    /**
      * Whether two trees are the same.
      *
      * @param p TreeNode 1

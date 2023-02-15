@@ -12,18 +12,14 @@ public class SymmetricTree101Test {
 
     @Test
     public void testCase1() {
-        TreeNode root = new TreeNode(1,
-                new TreeNode(2, new TreeNode(3), new TreeNode(4)),
-                new TreeNode(2, new TreeNode(4), new TreeNode(3)));
+        TreeNode root = TreeNode.buildTree(new Integer[]{1, 2, 2, 3, 4, 4, 3});
 
         assertTrue(solution.isSymmetric(root));
     }
 
     @Test
     public void testCase2() {
-        TreeNode root = new TreeNode(1,
-                new TreeNode(2, null, new TreeNode(3)),
-                new TreeNode(2, null, new TreeNode(3)));
+        TreeNode root = TreeNode.buildTree(new Integer[]{1, 2, 2, null, 3, null, 3});
 
         assertFalse(solution.isSymmetric(root));
     }

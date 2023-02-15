@@ -14,7 +14,7 @@ public class BinaryTreeLevelOrderTraversal102Test {
 
     @Test
     public void testCase1() {
-        TreeNode root = new TreeNode(3, new TreeNode(9), new TreeNode(20, new TreeNode(15), new TreeNode(7)));
+        TreeNode root = TreeNode.buildTree(new Integer[]{3, 9, 20, null, null, 15, 7});
 
         List<List<Integer>> output = List.of(
                 List.of(3),

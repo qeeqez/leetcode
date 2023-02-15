@@ -11,9 +11,9 @@ public class MaximumDepthBinaryTree104Test {
 
     @Test
     public void testCase1() {
-        TreeNode root = new TreeNode(3,
-                new TreeNode(9),
-                new TreeNode(20, new TreeNode(15), new TreeNode(7)));
+        TreeNode root = TreeNode.buildTree(new Integer[]{
+                3, 9, 20, null, null, 15, 7
+        });
 
         int maxDepth = 3;
 
@@ -22,9 +22,9 @@ public class MaximumDepthBinaryTree104Test {
 
     @Test
     public void testCase2() {
-        TreeNode root = new TreeNode(1,
-                null,
-                new TreeNode(2));
+        TreeNode root = TreeNode.buildTree(new Integer[]{
+                1, null, 2
+        });
 
         int maxDepth = 2;
 
