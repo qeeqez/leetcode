@@ -163,6 +163,7 @@
 [74. Search a 2D Matrix](./src/main/java/com/qeeqez/medium/Search2DMatrix74.java)  
 [77. Combinations](./src/main/java/com/qeeqez/medium/Combinations77.java)  
 [102. Binary Tree Level Order Traversal](./src/main/java/com/qeeqez/medium/BinaryTreeLevelOrderTraversal102.java)    
+[116. Populating Next Right Pointers in Each Node](./src/main/java/com/qeeqez/medium/PopulatingNextRightPointersEachNode116.java)  
 [153. Find Minimum in Rotated Sorted Array]  
 [162. Find Peak Element]  
 [167. Two Sum II - Input Array Is Sorted](./src/main/java/com/qeeqez/medium/TwoSumIInputArraySorted167.java)  
