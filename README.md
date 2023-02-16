@@ -178,7 +178,7 @@
 [608. Tree Node](./sql/608.TreeNode.sql)  
 [692. Top K Frequent Words](./src/main/java/com/qeeqez/medium/TopKFrequentWords692.java)  
 [695. Max Area of Island](./src/main/java/com/qeeqez/medium/MaxAreaOfIsland695.java)  
-[19. Remove Nth Node From End of List](./src/main/java/com/qeeqez/medium/RemoveNthNodeFromEndOfList19.java)  
+[994. Rotting Oranges](./src/main/java/com/qeeqez/medium/RottingOranges994.java)    
 [1158. Market Analysis I](./sql/1158.MarketAnalysisI.sql)  
 [1393. Capital Gain/Loss](./sql/1393.CapitalGainLoss.sql)  
 [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./src/main/java/com/qeeqez/medium/PartitioningIntoMinimumNumberDeciBinaryNumbers1689.java)
