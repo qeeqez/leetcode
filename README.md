@@ -47,6 +47,7 @@
 [206. Reverse Linked List](./src/main/java/com/qeeqez/easy/ReverseLinkedList206.java)  
 [217. Contains Duplicate](./src/main/java/com/qeeqez/easy/ContainsDuplicate217.java)  
 [226. Invert Binary Tree](./src/main/java/com/qeeqez/easy/ValidAnagram242.java)  
+[231. Power of Two](./src/main/java/com/qeeqez/easy/PowerOfTwo231.java)  
 [232. Implement Queue using Stacks](./src/main/java/com/qeeqez/easy/ImplementQueueUsingStacks232.java)    
 [242. Valid Anagram](./src/main/java/com/qeeqez/easy/ValidAnagram242.java)  
 [270. Closest Binary Search Tree Value]   
