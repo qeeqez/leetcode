@@ -184,6 +184,7 @@
 [608. Tree Node](./sql/608.TreeNode.sql)  
 [692. Top K Frequent Words](./src/main/java/com/qeeqez/medium/TopKFrequentWords692.java)  
 [695. Max Area of Island](./src/main/java/com/qeeqez/medium/MaxAreaOfIsland695.java)  
+[701. Insert into a Binary Search Tree](./src/main/java/com/qeeqez/medium/InsertIntoBinarySearchTree701.java)  
 [784. Letter Case Permutation](./src/main/java/com/qeeqez/medium/LetterCasePermutation784.java)    
 [994. Rotting Oranges](./src/main/java/com/qeeqez/medium/RottingOranges994.java)    
 [1158. Market Analysis I](./sql/1158.MarketAnalysisI.sql)  
