@@ -168,6 +168,7 @@
 [62. Unique Paths](./src/main/java/com/qeeqez/medium/UniquePaths62.java)  
 [74. Search a 2D Matrix](./src/main/java/com/qeeqez/medium/Search2DMatrix74.java)  
 [77. Combinations](./src/main/java/com/qeeqez/medium/Combinations77.java)  
+[98. Validate Binary Search Tree](./src/main/java/com/qeeqez/medium/ValidateBinarySearchTree98.java)  
 [102. Binary Tree Level Order Traversal](./src/main/java/com/qeeqez/medium/BinaryTreeLevelOrderTraversal102.java)    
 [116. Populating Next Right Pointers in Each Node](./src/main/java/com/qeeqez/medium/PopulatingNextRightPointersEachNode116.java)  
 [153. Find Minimum in Rotated Sorted Array]  
