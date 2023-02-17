@@ -177,6 +177,7 @@
 [167. Two Sum II - Input Array Is Sorted](./src/main/java/com/qeeqez/medium/TwoSumIInputArraySorted167.java)  
 [176. Second Highest Salary](./sql/176.SecondHighestSalary.sql)  
 [189. Rotate Array](./src/main/java/com/qeeqez/medium/RotateArray189.java)   
+[198. House Robber](./src/main/java/com/qeeqez/medium/HouseRobber198.java)  
 [235. Lowest Common Ancestor of a Binary Search Tree](./src/main/java/com/qeeqez/medium/LowestCommonAncestorBST235.java)  
 [299. Bulls and Cows](./src/main/java/com/qeeqez/medium/RotateArray189.java)
 [394. Decode String](./src/main/java/com/qeeqez/medium/DecodeString394.java)   
