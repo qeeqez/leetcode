@@ -26,6 +26,7 @@ public class NumberOf1Bits191Test {
 
     @Test
     public void testCase3() {
+        // 11111111111111111111111111111101
         int n = Integer.parseUnsignedInt("4294967293");
         int output = 31;
 
