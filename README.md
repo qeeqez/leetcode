@@ -81,6 +81,7 @@
 [607. Sales Person](./sql/197.RisingTemperature.sql)  
 [617. Merge Two Binary Trees](./src/main/java/com/qeeqez/easy/MergeTwoBinaryTrees617.java)  
 [627. Swap Salary](./sql/627.SwapSalary.sql)  
+[700. Search in a Binary Search Tree](./src/main/java/com/qeeqez/easy/SearchInBinaryTree700.java)  
 [704. Binary Search](./src/main/java/com/qeeqez/easy/BinarySearch704.java)  
 [724. Find Pivot Index](./src/main/java/com/qeeqez/easy/FindPivotIndex724.java)
 [733. Flood Fill](./src/main/java/com/qeeqez/easy/FloodFill733.java)  
