@@ -36,6 +36,7 @@
 [175. Combine Two Tables](./sql/175.CombineTwoTables.sql)  
 [182. Duplicate Emails](./sql/182.DuplicateEmails.sql)  
 [183. Customers Who Never Order](./sql/183.CustomersWhoNeverOrder.sql)  
+[191. Number of 1 Bits](./src/main/java/com/qeeqez/easy/NumberOf1Bits191.java)  
 [192. Word Frequency](./shell/192WordFrequency.sh)  
 [193. Valid Phone Numbers](./shell/193ValidPhoneNumbers.sh)  
 [194. Transpose File](./shell/194TransposeFile.sh)  
