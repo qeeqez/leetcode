@@ -16,7 +16,7 @@
 [21. Merge Two Sorted Lists](./src/main/java/com/qeeqez/easy/MergeTwoSortedLists21.java)  
 [26. Remove Duplicates from Sorted Array](./src/main/java/com/qeeqez/easy/RemoveDuplicatesFromSortedArray26.java)  
 [27. Remove Element](./src/main/java/com/qeeqez/easy/RemoveElement27.java)
-[35. Search Insert Position](./src/main/java/com/qeeqez/easy/SearchInsertPosition35.java)
+[35. Search Insert Position](./src/main/java/com/qeeqez/easy/SearchInsertPosition35.java)  
 [67. Add Binary](./src/main/java/com/qeeqez/easy/AddBinary67.java)
 [69. Sqrt(x)](./src/main/java/com/qeeqez/easy/SqrtX69.java)  
 [70. Climbing Stairs](./src/main/java/com/qeeqez/easy/ClimbingStairs70.java)
@@ -161,7 +161,8 @@
 [28. Find the Index of the First Occurrence in a String]  
 [33. Search in Rotated Sorted Array]  
 [34. Find First and Last Position of Element in Sorted Array]  
-[36. Valid Sudoku](./src/main/java/com/qeeqez/medium/ValidSudoku36.java)
+[36. Valid Sudoku](./src/main/java/com/qeeqez/medium/ValidSudoku36.java)  
+[46. Permutations](./src/main/java/com/qeeqez/medium/Permutations46.java)  
 [53. Maximum Subarray](./src/main/java/com/qeeqez/medium/MaximumSubarray53.java)  
 [62. Unique Paths](./src/main/java/com/qeeqez/medium/UniquePaths62.java)  
 [74. Search a 2D Matrix](./src/main/java/com/qeeqez/medium/Search2DMatrix74.java)  
