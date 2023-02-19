@@ -172,6 +172,7 @@
 [98. Validate Binary Search Tree](./src/main/java/com/qeeqez/medium/ValidateBinarySearchTree98.java)  
 [102. Binary Tree Level Order Traversal](./src/main/java/com/qeeqez/medium/BinaryTreeLevelOrderTraversal102.java)    
 [116. Populating Next Right Pointers in Each Node](./src/main/java/com/qeeqez/medium/PopulatingNextRightPointersEachNode116.java)  
+[120. Triangle](./src/main/java/com/qeeqez/medium/Triangle120.java)  
 [153. Find Minimum in Rotated Sorted Array]  
 [162. Find Peak Element]  
 [167. Two Sum II - Input Array Is Sorted](./src/main/java/com/qeeqez/medium/TwoSumIInputArraySorted167.java)  
