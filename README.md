@@ -122,6 +122,7 @@
 [1486. XOR Operation in an Array](./src/main/java/com/qeeqez/easy/XOROperationArray1486.java)  
 [1512. Number of Good Pairs](./src/main/java/com/qeeqez/easy/NumberOfGoodPairs1512.java)  
 [1518. Water Bottles](./src/main/java/com/qeeqez/easy/WaterBottles1518.java)  
+[1523. Count Odd Numbers in an Interval Range](./src/main/java/com/qeeqez/easy/CountOddNumbersInIntervalRange1523.java)  
 [1527. Patients With a Condition](./sql/1527.PatientsWithCondition.sql)  
 [1528. Shuffle String](./src/main/java/com/qeeqez/easy/ShuffleString1528.java)  
 [1539. Kth Missing Positive Number](./src/main/java/com/qeeqez/easy/KthMissingPositiveNumber1539.java)  
