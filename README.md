@@ -120,6 +120,7 @@
 [1480. Running Sum of 1d Array](./src/main/java/com/qeeqez/easy/RunningSumOf1dArray1480.java)  
 [1484. Group Sold Products By The Date](./sql/1484.GroupSoldProductsByTheDate.sql)  
 [1486. XOR Operation in an Array](./src/main/java/com/qeeqez/easy/XOROperationArray1486.java)  
+[1491. Average Salary Excluding the Minimum and Maximum Salary](./src/main/java/com/qeeqez/easy/AverageSalaryExcludingMinimumMaximumSalary1491.java)  
 [1512. Number of Good Pairs](./src/main/java/com/qeeqez/easy/NumberOfGoodPairs1512.java)  
 [1518. Water Bottles](./src/main/java/com/qeeqez/easy/WaterBottles1518.java)  
 [1523. Count Odd Numbers in an Interval Range](./src/main/java/com/qeeqez/easy/CountOddNumbersInIntervalRange1523.java)  
