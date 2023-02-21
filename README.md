@@ -188,6 +188,7 @@
 [394. Decode String](./src/main/java/com/qeeqez/medium/DecodeString394.java)   
 [487. Max Consecutive Ones II]  
 [522. Longest Uncommon Subsequence II](./src/main/java/com/qeeqez/medium/LongestUncommonSubsequence522.java)  
+[540. Single Element in a Sorted Array](./src/main/java/com/qeeqez/medium/SingleElementInSortedArray540.java)  
 [542. 01 Matrix](./src/main/java/com/qeeqez/medium/ZeroOneMatrix542.java)    
 [567. Permutation in String](./src/main/java/com/qeeqez/medium/PermutationString567.java)  
 [608. Tree Node](./sql/608.TreeNode.sql)  
