@@ -94,6 +94,7 @@
 [905. Sort Array By Parity]  
 [941. Valid Mountain Array]  
 [944. Delete Columns to Make Sorted](./src/main/java/com/qeeqez/easy/SplitStringInBalancedStrings1221.java)  
+[976. Largest Perimeter Triangle](./src/main/java/com/qeeqez/easy/LargestPerimeterTriangle976.java)  
 [977. Squares of a Sorted Array](./src/main/java/com/qeeqez/easy/SquaresOfSortedArray977.java)  
 [1046. Last Stone Weight](./src/main/java/com/qeeqez/easy/LastStoneWeight1046.java)  
 [1050. Actors and Directors Who Cooperated At Least Three Times](./sql/1050.ActorsDirectorsWhoCooperatedAtLeastThreeTimes.sql)  
