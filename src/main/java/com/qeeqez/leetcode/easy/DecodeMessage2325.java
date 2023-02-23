@@ -23,11 +23,12 @@ public class DecodeMessage2325 {
         Map<Character, Character> mappingTable = new HashMap<>();
 
         int counter = 0;
-        for (int i = 0; i < 26 && i < key.length(); i++) {
+        for (int i = 0; i < key.length(); i++) {
             char c = key.charAt(i);
             if (c != ' ' && !mappingTable.containsKey(c)) {
                 char alphabet = (char) ('a' + counter);
                 mappingTable.put(c, alphabet);
+                if (counter >= 26) break;
                 counter++;
             }
         }
