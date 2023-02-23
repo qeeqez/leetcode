@@ -38,4 +38,34 @@ public class RotateArray189Test {
         assertArrayEquals(output, nums);
     }
 
+    @Test
+    public void testCaseSlow1() {
+        int[] nums = {1, 2, 3, 4, 5, 6, 7};
+        int k = 3;
+        int[] output = {5, 6, 7, 1, 2, 3, 4};
+
+        solution.rotateSlow(nums, k);
+        assertArrayEquals(output, nums);
+    }
+
+    @Test
+    public void testCaseSlow2() {
+        int[] nums = {-1, -100, 3, 99};
+        int k = 2;
+        int[] output = {3, 99, -1, -100};
+
+        solution.rotateSlow(nums, k);
+        assertArrayEquals(output, nums);
+    }
+
+    @Test
+    public void testCaseSlow3() {
+        int[] nums = {1, 2};
+        int k = 3;
+        int[] output = {2, 1};
+
+        solution.rotateSlow(nums, k);
+        assertArrayEquals(output, nums);
+    }
+
 }
