@@ -166,7 +166,7 @@
 [3. Longest Substring Without Repeating Characters](./src/main/java/com/qeeqez/medium/LongestSubstringWithoutRepeatingChars3.java)  
 [28. Find the Index of the First Occurrence in a String]  
 [33. Search in Rotated Sorted Array]  
-[34. Find First and Last Position of Element in Sorted Array]  
+[34. Find First and Last Position of Element in Sorted Array](./src/main/java/com/qeeqez/medium/FindFirstLastPositionElementSortedArray34.java)    
 [36. Valid Sudoku](./src/main/java/com/qeeqez/medium/ValidSudoku36.java)  
 [46. Permutations](./src/main/java/com/qeeqez/medium/Permutations46.java)  
 [53. Maximum Subarray](./src/main/java/com/qeeqez/medium/MaximumSubarray53.java)  
