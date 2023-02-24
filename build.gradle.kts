@@ -1,5 +1,5 @@
 plugins {
-    id("java")
+    java
 }
 
 group = "com.qeeqez"
@@ -13,6 +13,6 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter:5.9.2")
 }
 
-tasks.test {
+tasks.withType<Test> {
     useJUnitPlatform()
 }
