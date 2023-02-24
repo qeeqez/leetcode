@@ -109,6 +109,7 @@
 [1148. Article Views I](./sql/1148.ArticleViewsI.sql)  
 [1207. Unique Number of Occurrences]    
 [1221. Split a String in Balanced Strings](./src/main/java/com/qeeqez/leetcode/easy/SplitStringInBalancedStrings1221.java)  
+[1232. Check If It Is a Straight Line](./src/main/java/com/qeeqez/leetcode/easy/CheckIfItIsAStraightLine1232.java)    
 [1281. Subtract the Product and Sum of Digits of an Integer](./src/main/java/com/qeeqez/leetcode/easy/SubstractProductAndSumOfDigitsInteger1281.java)  
 [1295. Find Numbers with Even Number of Digits]  
 [1299. Replace Elements with Greatest Element on Right Side]  
