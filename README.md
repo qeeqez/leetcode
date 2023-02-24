@@ -70,6 +70,7 @@
 [441. Arranging Coins](./src/main/java/com/qeeqez/leetcode/easy/ArrangingCoins441.java)  
 [448. Find All Numbers Disappeared in an Array]  
 [485. Max Consecutive Ones]  
+[496. Next Greater Element I](./src/main/java/com/qeeqez/leetcode/easy/NextGreaterElementI496.java)  
 [509. Fibonacci Number](./src/main/java/com/qeeqez/leetcode/easy/FibonacciNumber509.java)  
 [511. Game Play Analysis I](./sql/511.GamePlayAnalysisI.sql)
 [520. Detect Capital](./src/main/java/com/qeeqez/leetcode/easy/DetectCapital520.java)  
