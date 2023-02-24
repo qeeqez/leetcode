@@ -1,7 +1,6 @@
 package com.qeeqez.leetcode.easy;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -13,51 +12,19 @@ import java.util.List;
  */
 public class PascalsTriangle118 {
 
-    // Faster as we skip some iterations
-    public List<List<Integer>> generateOptimized(int numRows) {
-        List<List<Integer>> output = new ArrayList<>();
-
-        List<Integer> current = new LinkedList<>();
-        current.add(1);
-        output.add(current);
-        List<Integer> previous = current;
-
-        for (int i = 2; i <= numRows; i++) {
-            current = new LinkedList<>();
-            current.add(1);
-            current.add(1);
-            for (int j = 1; j < (i + 1) / 2; j++) {
-                int sum = previous.get(j) + previous.get(j - 1);
-                current.add(j, sum);
-                if (i % 2 != 0 && j == i / 2) {
-                    continue;
-                }
-                current.add(j, sum);
-            }
-            output.add(current);
-            previous = current;
-        }
-        return output;
-    }
-
+    // 86% CPU - 1 ms
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> output = new ArrayList<>();
-
-        List<Integer> current = new LinkedList<>();
-        current.add(1);
-        output.add(current);
-        List<Integer> previous = current;
-
-        for (int i = 2; i <= numRows; i++) {
-            current = new LinkedList<>();
+        for (int i = 0; i < numRows; i++) {
+            List<Integer> current = new ArrayList<>();
             current.add(1);
-            current.add(1);
-            for (int j = 1; j < i - 1; j++) {
-                int sum = previous.get(j) + previous.get(j - 1);
-                current.add(j, sum);
+            for (int j = 1; j < i; j++) {
+                List<Integer> previous = output.get(i - 1);
+                int sum = previous.get(j - 1) + previous.get(j);
+                current.add(sum);
             }
+            if (i > 0) current.add(1);
             output.add(current);
-            previous = current;
         }
         return output;
     }

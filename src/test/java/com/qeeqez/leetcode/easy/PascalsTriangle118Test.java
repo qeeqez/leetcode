@@ -23,7 +23,6 @@ public class PascalsTriangle118Test {
         ));
 
         assertEquals(output, solution.generate(numRows));
-        assertEquals(output, solution.generateOptimized(numRows));
     }
 
     @Test
@@ -39,7 +38,6 @@ public class PascalsTriangle118Test {
         ));
 
         assertEquals(output, solution.generate(numRows));
-        assertEquals(output, solution.generateOptimized(numRows));
     }
 
     @Test
@@ -50,6 +48,5 @@ public class PascalsTriangle118Test {
         ));
 
         assertEquals(output, solution.generate(numRows));
-        assertEquals(output, solution.generateOptimized(numRows));
     }
 }
