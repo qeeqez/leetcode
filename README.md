@@ -78,6 +78,7 @@
 [566. Reshape the Matrix](./src/main/java/com/qeeqez/leetcode/easy/ReshapeMatrix566.java)  
 [584. Find Customer Referee](./sql/595.BigCountries.sql)   
 [586. Customer Placing the Largest Number of Orders](./sql/586.CustomerPlacingLargestNumberOrders.sql)   
+[589. N-ary Tree Preorder Traversal](./src/main/java/com/qeeqez/leetcode/easy/NaryTreePreorderTraversal589.java)  
 [595. Big Countries](./sql/595.BigCountries.sql)  
 [607. Sales Person](./sql/197.RisingTemperature.sql)  
 [617. Merge Two Binary Trees](./src/main/java/com/qeeqez/leetcode/easy/MergeTwoBinaryTrees617.java)  
