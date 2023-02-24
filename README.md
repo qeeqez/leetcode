@@ -143,6 +143,7 @@
 [1757. Recyclable and Low Fat Products](./sql/1757.RecyclableLowFatProducts.sql)  
 [1773. Count Items Matching a Rule](./src/main/java/com/qeeqez/leetcode/easy/CountMatches1773.java)  
 [1779. Find Nearest Point That Has the Same X or Y Coordinate](./src/main/java/com/qeeqez/leetcode/easy/FindNearestPointThatHasSameXorYCoordinate1779.java)  
+[1790. Check if One String Swap Can Make Strings Equal](./src/main/java/com/qeeqez/leetcode/easy/CheckIfOneStringSwapCanMakeStringsEqual1790.java)  
 [1795. Rearrange Products Table](./sql/1795.RearrangeProductsTable.sql)   
 [1822. Sign of the Product of an Array](./src/main/java/com/qeeqez/leetcode/easy/SignOfTheProductOfAnArray1822.java)  
 [1832. Check if the Sentence Is Pangram](./src/main/java/com/qeeqez/leetcode/easy/CheckIfSentencePangram1832.java)  
