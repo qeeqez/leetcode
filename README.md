@@ -122,6 +122,7 @@
 [1484. Group Sold Products By The Date](./sql/1484.GroupSoldProductsByTheDate.sql)  
 [1486. XOR Operation in an Array](./src/main/java/com/qeeqez/leetcode/easy/XOROperationArray1486.java)  
 [1491. Average Salary Excluding the Minimum and Maximum Salary](./src/main/java/com/qeeqez/leetcode/easy/AverageSalaryExcludingMinimumMaximumSalary1491.java)  
+[1502. Can Make Arithmetic Progression From Sequence](./src/main/java/com/qeeqez/leetcode/easy/CanMakeArithmeticProgressionFromSequence1502.java)    
 [1512. Number of Good Pairs](./src/main/java/com/qeeqez/leetcode/easy/NumberOfGoodPairs1512.java)  
 [1518. Water Bottles](./src/main/java/com/qeeqez/leetcode/easy/WaterBottles1518.java)  
 [1523. Count Odd Numbers in an Interval Range](./src/main/java/com/qeeqez/leetcode/easy/CountOddNumbersInIntervalRange1523.java)  
