@@ -132,6 +132,7 @@
 [1539. Kth Missing Positive Number](./src/main/java/com/qeeqez/leetcode/easy/KthMissingPositiveNumber1539.java)  
 [1581. Customer Who Visited but Did Not Make Any Transactions](./sql/1581.CustomerWhoVisitedDidNotMakeTransactions.sql)  
 [1587. Bank Account Summary II](./sql/1587.BankAccountSummaryII.sql)  
+[1588. Sum of All Odd Length Subarrays](./src/main/java/com/qeeqez/leetcode/easy/SumOfAllOffLengthSubarrays1588.java)  
 [1608. Special Array With X Elements Greater Than or Equal X](./src/main/java/com/qeeqez/leetcode/easy/SpecialArrayXElementsGreaterOrEqualX1608.java)
 [1667. Fix Names in a Table](./sql/1667.FixNamesInTable.sql)  
 [1672. Richest Customer Wealth](./src/main/java/com/qeeqez/leetcode/easy/RichestCustomerWealth1672.java)  
