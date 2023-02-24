@@ -45,6 +45,7 @@
 [195. Tenth Line](./shell/195TenthLine.sh)  
 [196. Delete Duplicate Emails](./sql/196.DeleteDuplicateEmails.sql)   
 [197. Rising Temperature](./sql/197.RisingTemperature.sql)  
+[202. Happy Number](./src/main/java/com/qeeqez/leetcode/easy/HappyNumber202.java)  
 [203. Remove Linked List Elements](./src/main/java/com/qeeqez/leetcode/easy/RemoveLinkedListElements203.java)
 [205. Isomorphic Strings](./src/main/java/com/qeeqez/leetcode/easy/IsomorphicStrings205.java)  
 [206. Reverse Linked List](./src/main/java/com/qeeqez/leetcode/easy/ReverseLinkedList206.java)  
