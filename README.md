@@ -98,6 +98,7 @@
 [905. Sort Array By Parity]  
 [941. Valid Mountain Array]  
 [944. Delete Columns to Make Sorted](./src/main/java/com/qeeqez/leetcode/easy/SplitStringInBalancedStrings1221.java)  
+[953. Verifying an Alien Dictionary](./src/main/java/com/qeeqez/leetcode/easy/VerifyingAlienDictionary953.java)  
 [976. Largest Perimeter Triangle](./src/main/java/com/qeeqez/leetcode/easy/LargestPerimeterTriangle976.java)  
 [977. Squares of a Sorted Array](./src/main/java/com/qeeqez/leetcode/easy/SquaresOfSortedArray977.java)  
 [1046. Last Stone Weight](./src/main/java/com/qeeqez/leetcode/easy/LastStoneWeight1046.java)  
