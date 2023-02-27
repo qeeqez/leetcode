@@ -114,6 +114,7 @@
 [1281. Subtract the Product and Sum of Digits of an Integer](./src/main/java/com/qeeqez/leetcode/easy/SubstractProductAndSumOfDigitsInteger1281.java)  
 [1295. Find Numbers with Even Number of Digits]  
 [1299. Replace Elements with Greatest Element on Right Side]  
+[1309. Decrypt String from Alphabet to Integer Mapping](./src/main/java/com/qeeqez/leetcode/easy/DecryptStringAlphabetIntegerMapping1309.java)  
 [1313. Decompress Run-Length Encoded List](./src/main/java/com/qeeqez/leetcode/easy/DecompressRunLengthEncodedList1313.java)  
 [1342. Number of Steps to Reduce a Number to Zero](./src/main/java/com/qeeqez/leetcode/easy/NumberOfStepsReduceNumberToZero1342.java)  
 [1346. Check If N and Its Double Exist](./src/main/java/com/qeeqez/leetcode/easy/CheckIfNAndItsDoubleExists1346.java)  
