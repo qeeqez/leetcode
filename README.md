@@ -87,6 +87,7 @@
 [653. Two Sum IV - Input is a BST](./src/main/java/com/qeeqez/leetcode/easy/TwoSumIVInputBST653.java)  
 [700. Search in a Binary Search Tree](./src/main/java/com/qeeqez/leetcode/easy/SearchInBinaryTree700.java)  
 [704. Binary Search](./src/main/java/com/qeeqez/leetcode/easy/BinarySearch704.java)  
+[709. To Lower Case](./src/main/java/com/qeeqez/leetcode/easy/ToLowerCase709.java)
 [724. Find Pivot Index](./src/main/java/com/qeeqez/leetcode/easy/FindPivotIndex724.java)
 [733. Flood Fill](./src/main/java/com/qeeqez/leetcode/easy/FloodFill733.java)  
 [744. Find Smallest Letter Greater Than Target](./src/main/java/com/qeeqez/leetcode/easy/FindSmallestLetterFreaterThanTarget744.java)  
