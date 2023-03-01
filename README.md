@@ -122,6 +122,7 @@
 [1313. Decompress Run-Length Encoded List](./src/main/java/com/qeeqez/leetcode/easy/DecompressRunLengthEncodedList1313.java)  
 [1342. Number of Steps to Reduce a Number to Zero](./src/main/java/com/qeeqez/leetcode/easy/NumberOfStepsReduceNumberToZero1342.java)  
 [1346. Check If N and Its Double Exist](./src/main/java/com/qeeqez/leetcode/easy/CheckIfNAndItsDoubleExists1346.java)  
+[1356. Sort Integers by The Number of 1 Bits](./src/main/java/com/qeeqez/leetcode/easy/SortIntegersByTheNumberOf1Bits1356.java)  
 [1365. How Many Numbers Are Smaller Than the Current Number](./src/main/java/com/qeeqez/leetcode/easy/HowManyNumbersAreSmallerThanCurrent1365.java)  
 [1385. Find the Distance Value Between Two Arrays](./src/main/java/com/qeeqez/leetcode/easy/FindDistanceValueBetweenTwoArrays1385.java)  
 [1389. Create Target Array in the Given Order](./src/main/java/com/qeeqez/leetcode/easy/CreateTargetArrayGivenOrder1389.java)  
