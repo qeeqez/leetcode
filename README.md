@@ -114,6 +114,7 @@
 [1221. Split a String in Balanced Strings](./src/main/java/com/qeeqez/leetcode/easy/SplitStringInBalancedStrings1221.java)  
 [1232. Check If It Is a Straight Line](./src/main/java/com/qeeqez/leetcode/easy/CheckIfItIsAStraightLine1232.java)    
 [1281. Subtract the Product and Sum of Digits of an Integer](./src/main/java/com/qeeqez/leetcode/easy/SubstractProductAndSumOfDigitsInteger1281.java)  
+[1290. Convert Binary Number in a Linked List to Integer](./src/main/java/com/qeeqez/leetcode/easy/ConvertBinaryNumberLinkedListInteger1290.java)   
 [1295. Find Numbers with Even Number of Digits]  
 [1299. Replace Elements with Greatest Element on Right Side]  
 [1309. Decrypt String from Alphabet to Integer Mapping](./src/main/java/com/qeeqez/leetcode/easy/DecryptStringAlphabetIntegerMapping1309.java)  
