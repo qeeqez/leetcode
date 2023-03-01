@@ -64,6 +64,7 @@
 [374. Guess Number Higher or Lower](./src/main/java/com/qeeqez/leetcode/easy/GuessNumberHigherOrLower374.java)  
 [383. Ransom Note](./src/main/java/com/qeeqez/leetcode/easy/RansomNote383.java)  
 [387. First Unique Character in a String](./src/main/java/com/qeeqez/leetcode/easy/FirstUniqueCharacterString387.java)  
+[389. Find the Difference](./src/main/java/com/qeeqez/leetcode/easy/FindTheDifference389.java)  
 [392. Is Subsequence](./src/main/java/com/qeeqez/leetcode/easy/IsSubsequence392.java)  
 [409. Longest Palindrome](./src/main/java/com/qeeqez/leetcode/easy/LongestPalindrome409.java)  
 [414. Third Maximum Number](./src/main/java/com/qeeqez/leetcode/easy/ThirdMaximumNumber414.java)  
