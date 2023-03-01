@@ -66,6 +66,7 @@
 [387. First Unique Character in a String](./src/main/java/com/qeeqez/leetcode/easy/FirstUniqueCharacterString387.java)  
 [389. Find the Difference](./src/main/java/com/qeeqez/leetcode/easy/FindTheDifference389.java)  
 [392. Is Subsequence](./src/main/java/com/qeeqez/leetcode/easy/IsSubsequence392.java)  
+[404. Sum of Left Leaves](./src/main/java/com/qeeqez/leetcode/easy/SumOfLeftLeaves404.java)  
 [409. Longest Palindrome](./src/main/java/com/qeeqez/leetcode/easy/LongestPalindrome409.java)  
 [414. Third Maximum Number](./src/main/java/com/qeeqez/leetcode/easy/ThirdMaximumNumber414.java)  
 [441. Arranging Coins](./src/main/java/com/qeeqez/leetcode/easy/ArrangingCoins441.java)  
