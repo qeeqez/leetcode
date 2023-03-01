@@ -136,6 +136,7 @@
 [1527. Patients With a Condition](./sql/1527.PatientsWithCondition.sql)  
 [1528. Shuffle String](./src/main/java/com/qeeqez/leetcode/easy/ShuffleString1528.java)  
 [1539. Kth Missing Positive Number](./src/main/java/com/qeeqez/leetcode/easy/KthMissingPositiveNumber1539.java)  
+[1572. Matrix Diagonal Sum](./src/main/java/com/qeeqez/leetcode/easy/MatrixDiagonalSum1572.java)  
 [1581. Customer Who Visited but Did Not Make Any Transactions](./sql/1581.CustomerWhoVisitedDidNotMakeTransactions.sql)  
 [1587. Bank Account Summary II](./sql/1587.BankAccountSummaryII.sql)  
 [1588. Sum of All Odd Length Subarrays](./src/main/java/com/qeeqez/leetcode/easy/SumOfAllOffLengthSubarrays1588.java)  
