@@ -149,6 +149,7 @@
 [1729. Find Followers Count](./sql/1729.FindFollowersCount.sql)   
 [1741. Find Total Time Spent by Each Employee](./sql/1741.FindTotalTimeSpentByEachEmployee.sql)  
 [1757. Recyclable and Low Fat Products](./sql/1757.RecyclableLowFatProducts.sql)  
+[1768. Merge Strings Alternately](./src/main/java/com/qeeqez/leetcode/easy/MergeStringsAlternately1768.java)    
 [1773. Count Items Matching a Rule](./src/main/java/com/qeeqez/leetcode/easy/CountMatches1773.java)  
 [1779. Find Nearest Point That Has the Same X or Y Coordinate](./src/main/java/com/qeeqez/leetcode/easy/FindNearestPointThatHasSameXorYCoordinate1779.java)  
 [1790. Check if One String Swap Can Make Strings Equal](./src/main/java/com/qeeqez/leetcode/easy/CheckIfOneStringSwapCanMakeStringsEqual1790.java)  
