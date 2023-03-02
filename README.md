@@ -223,5 +223,6 @@
 [1158. Market Analysis I](./sql/1158.MarketAnalysisI.sql)  
 [1393. Capital Gain/Loss](./sql/1393.CapitalGainLoss.sql)  
 [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](./src/main/java/com/qeeqez/leetcode/medium/PartitioningIntoMinimumNumberDeciBinaryNumbers1689.java)
+[1855. Maximum Distance Between a Pair of Values](./src/main/java/com/qeeqez/leetcode/medium/MaximumDistanceBetweenPairOfValues1855.java)
 
 ### Hard
