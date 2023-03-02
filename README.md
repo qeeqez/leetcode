@@ -121,6 +121,7 @@
 [1299. Replace Elements with Greatest Element on Right Side]  
 [1309. Decrypt String from Alphabet to Integer Mapping](./src/main/java/com/qeeqez/leetcode/easy/DecryptStringAlphabetIntegerMapping1309.java)  
 [1313. Decompress Run-Length Encoded List](./src/main/java/com/qeeqez/leetcode/easy/DecompressRunLengthEncodedList1313.java)  
+[1337. The K Weakest Rows in a Matrix](./src/main/java/com/qeeqez/leetcode/easy/TheKWeakestRowsInMatrix1337.java)  
 [1342. Number of Steps to Reduce a Number to Zero](./src/main/java/com/qeeqez/leetcode/easy/NumberOfStepsReduceNumberToZero1342.java)  
 [1346. Check If N and Its Double Exist](./src/main/java/com/qeeqez/leetcode/easy/CheckIfNAndItsDoubleExists1346.java)  
 [1351. Count Negative Numbers in a Sorted Matrix](./src/main/java/com/qeeqez/leetcode/easy/CountNegativeNumbersSortedMatrix1351.java)  
