@@ -58,6 +58,7 @@
 [278. First Bad Version](./src/main/java/com/qeeqez/leetcode/easy/FirstBadVersion278.java)  
 [283. Move Zeroes](./src/main/java/com/qeeqez/leetcode/easy/MoveZeroes283.java)  
 [290. Word Pattern](./src/main/java/com/qeeqez/leetcode/easy/WordPattern290.java)  
+[303. Range Sum Query - Immutable](./src/main/java/com/qeeqez/leetcode/easy/RangeSumQueryImmutable303.java)   
 [344. Reverse String](./src/main/java/com/qeeqez/leetcode/easy/ReverseString344.java)
 [350. Intersection of Two Arrays II](./src/main/java/com/qeeqez/leetcode/easy/IntersectionOfTwoArraysII350.java)  
 [367. Valid Perfect Square](./src/main/java/com/qeeqez/leetcode/easy/ValidPerfectSquare367.java)  
