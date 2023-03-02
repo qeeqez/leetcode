@@ -198,7 +198,7 @@
 [102. Binary Tree Level Order Traversal](./src/main/java/com/qeeqez/leetcode/medium/BinaryTreeLevelOrderTraversal102.java)    
 [116. Populating Next Right Pointers in Each Node](./src/main/java/com/qeeqez/leetcode/medium/PopulatingNextRightPointersEachNode116.java)  
 [120. Triangle](./src/main/java/com/qeeqez/leetcode/medium/Triangle120.java)  
-[153. Find Minimum in Rotated Sorted Array]  
+[153. Find Minimum in Rotated Sorted Array](./src/main/java/com/qeeqez/leetcode/medium/FindMinimumInRotatedSortedArray153.java)  
 [162. Find Peak Element]  
 [167. Two Sum II - Input Array Is Sorted](./src/main/java/com/qeeqez/leetcode/medium/TwoSumIInputArraySorted167.java)  
 [176. Second Highest Salary](./sql/176.SecondHighestSalary.sql)  
