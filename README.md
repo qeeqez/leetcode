@@ -213,6 +213,7 @@
 [542. 01 Matrix](./src/main/java/com/qeeqez/leetcode/medium/ZeroOneMatrix542.java)    
 [567. Permutation in String](./src/main/java/com/qeeqez/leetcode/medium/PermutationString567.java)  
 [608. Tree Node](./sql/608.TreeNode.sql)  
+[633. Sum of Square Numbers](./src/main/java/com/qeeqez/leetcode/medium/SumOfSquareNumbers633.java)  
 [692. Top K Frequent Words](./src/main/java/com/qeeqez/leetcode/medium/TopKFrequentWords692.java)  
 [695. Max Area of Island](./src/main/java/com/qeeqez/leetcode/medium/MaxAreaOfIsland695.java)  
 [701. Insert into a Binary Search Tree](./src/main/java/com/qeeqez/leetcode/medium/InsertIntoBinarySearchTree701.java)  
