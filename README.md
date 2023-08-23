@@ -181,6 +181,7 @@
 [2469. Convert the Temperature](./src/main/java/com/qeeqez/leetcode/easy/ConvertTheTemperature2469.java)  
 [2520. Count the Digits That Divide a Number](./src/main/java/com/qeeqez/leetcode/easy/CountDigitsDivideNumber2520.java)
 [2535. Difference Between Element Sum and Digit Sum of an Array](./src/main/java/com/qeeqez/leetcode/easy/DifferenceBetweenElementDigitSumArray2535.java)
+[2769. Find the Maximum Achievable Number](./src/main/java/com/qeeqez/leetcode/easy/FindMaximumAchievableNumber2769.java)
 
 ### Medium
 
