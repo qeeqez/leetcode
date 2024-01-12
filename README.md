@@ -1,6 +1,6 @@
 # Leetcode Java solutions
 
-[![LeetCode user qeeqez](https://leetcode.card.workers.dev/qeeqez?theme=auto)](https://leetcode.com/qeeqez/)
+[![LeetCode user qeeqez](https://leetcard.jacoblin.cool/qeeqez?theme=dark)](https://leetcode.com/qeeqez/)
 
 #### Made by qeeqez
 
