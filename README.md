@@ -6,9 +6,11 @@
 
 ## List of completed:
 
-### Easy
+| Question | Solution | Difficulty |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](./src/main/java/com/qeeqez/leetcode/easy/TwoSum1.java) | Easy |
 
-[1. Two Sum](./src/main/java/com/qeeqez/leetcode/easy/TwoSum1.java)  
+
 [9. Palindrome Number](./src/main/java/com/qeeqez/leetcode/easy/PalindromeNumber9.java)  
 [13. Roman to Integer](./src/main/java/com/qeeqez/leetcode/easy/RomanToInteger13.java)  
 [14. Longest Common Prefix](./src/main/java/com/qeeqez/leetcode/easy/LongestCommonPrefix14.java)  
