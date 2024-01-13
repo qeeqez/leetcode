@@ -11,7 +11,7 @@ package com.qeeqez.leetcode.easy;
  * Given an array of strings operations containing a list of operations,
  * return the final value of X after performing all the operations.
  */
-public class FinalValueVaruableAfterOperations2011 {
+public class FinalValueVariableAfterOperations2011 {
 
     // Faster solution
     public int finalValueAfterOperations(String[] operations) {

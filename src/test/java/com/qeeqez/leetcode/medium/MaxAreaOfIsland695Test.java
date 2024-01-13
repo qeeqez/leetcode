@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class MaxAreaIsland695Test {
+public class MaxAreaOfIsland695Test {
 
     MaxAreaOfIsland695 solution = new MaxAreaOfIsland695();
 

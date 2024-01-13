@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class SumOfAllOddLengthSubarrays1588Test {
 
-    SumOfAllOffLengthSubarrays1588 solution = new SumOfAllOffLengthSubarrays1588();
+    SumOfAllOddLengthSubarrays1588 solution = new SumOfAllOddLengthSubarrays1588();
 
     @Test
     public void testCase1() {

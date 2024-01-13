@@ -7,7 +7,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class CountMathes1773Test {
+public class CountMatches1773Test {
 
     CountMatches1773 solution = new CountMatches1773();
 

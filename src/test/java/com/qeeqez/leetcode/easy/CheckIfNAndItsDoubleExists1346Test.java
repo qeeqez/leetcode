@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class CheckIfNAndItsDoubleExist1346Test {
+public class CheckIfNAndItsDoubleExists1346Test {
 
     CheckIfNAndItsDoubleExists1346 solution = new CheckIfNAndItsDoubleExists1346();
 

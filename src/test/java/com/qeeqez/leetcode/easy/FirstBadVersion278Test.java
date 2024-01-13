@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class FirstbadVersion278Test {
+public class FirstBadVersion278Test {
 
     FirstBadVersion278 solution = new FirstBadVersion278();
 

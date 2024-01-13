@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class NumberStepsReduceNumberToZero1342Test {
+public class NumberOfStepsReduceNumberToZero1342Test {
 
     NumberOfStepsReduceNumberToZero1342 solution = new NumberOfStepsReduceNumberToZero1342();
 

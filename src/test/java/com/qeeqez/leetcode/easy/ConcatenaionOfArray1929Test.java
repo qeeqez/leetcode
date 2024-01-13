@@ -4,9 +4,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
-public class ConcantenationOfArray1929Test {
+public class ConcatenaionOfArray1929Test {
 
-    ConcatentaionOfArray1929 solution = new ConcatentaionOfArray1929();
+    ConcatenaionOfArray1929 solution = new ConcatenaionOfArray1929();
 
     @Test
     public void testCase1() {

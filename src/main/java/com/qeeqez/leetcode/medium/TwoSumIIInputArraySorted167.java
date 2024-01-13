@@ -18,7 +18,7 @@ import java.util.Map;
  * <p>
  * Your solution must use only constant extra space.
  */
-public class TwoSumIInputArraySorted167 {
+public class TwoSumIIInputArraySorted167 {
 
     // 100% CPU, 47% MEM
     public int[] twoSum(int[] nums, int target) {

@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 public class TwoSumIIInputArraySorted167Test {
 
-    TwoSumIInputArraySorted167 solution = new TwoSumIInputArraySorted167();
+    TwoSumIIInputArraySorted167 solution = new TwoSumIIInputArraySorted167();
 
     @Test
     public void testCase1() {

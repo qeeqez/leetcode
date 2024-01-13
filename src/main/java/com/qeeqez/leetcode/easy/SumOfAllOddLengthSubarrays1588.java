@@ -7,7 +7,7 @@ package com.qeeqez.leetcode.easy;
  * <p>
  * A subarray is a contiguous subsequence of the array.
  */
-public class SumOfAllOffLengthSubarrays1588 {
+public class SumOfAllOddLengthSubarrays1588 {
 
     // 100% CPU, 92% MEM
     public int sumOddLengthSubarrays(int[] arr) {

@@ -12,7 +12,7 @@ package com.qeeqez.leetcode.easy;
  * <p>
  * Return the array ans
  */
-public class ConcatentaionOfArray1929 {
+public class ConcatenaionOfArray1929 {
 
     public int[] getConcatenation(int[] nums) {
         int n = nums.length;

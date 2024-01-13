@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class FinalValueVariableAfterOperations2011Test {
 
-    FinalValueVaruableAfterOperations2011 solution = new FinalValueVaruableAfterOperations2011();
+    FinalValueVariableAfterOperations2011 solution = new FinalValueVariableAfterOperations2011();
 
     @Test
     public void testCase1() {
