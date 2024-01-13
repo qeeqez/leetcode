@@ -3,7 +3,6 @@ name: Test all Solutions
 on:
   push:
 
-
 jobs:
   build:
     name: Test Solutions
@@ -17,11 +16,11 @@ jobs:
       - name: ⬇️ Set up JDK 21
         uses: actions/setup-java@v4
         with:
-          java-version: '21'
           distribution: 'microsoft'
+          java-version: '21'
 
       - name: ⬇️ Setup Gradle
-        uses: gradle/gradle-build-action@v2
+        uses: gradle/gradle-build-action@v2.11.1
 
       - name: 🛠️ Build and Test 🧪
         run: ./gradlew test
