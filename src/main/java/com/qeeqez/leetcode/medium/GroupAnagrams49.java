@@ -1,7 +1,6 @@
 package com.qeeqez.leetcode.medium;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 /**
  * 49. Group Anagrams
@@ -14,25 +13,20 @@ import java.util.stream.Collectors;
  */
 public class GroupAnagrams49 {
     public List<List<String>> groupAnagrams(String[] strs) {
-        List<List<String>> result = new ArrayList<>();
-
-        Map<String, Integer> anagrams = new HashMap<>();
+        Map<String, List<String>> anagrams = new HashMap<>();
 
         for (String str : strs) {
-            String sorted = str.chars()
-                    .sorted()
-                    .collect(StringBuilder::new, StringBuilder::appendCodePoint, StringBuilder::append)
-                    .toString();
+            char[] wordArray = str.toCharArray();
+            Arrays.sort(wordArray);
+            String sorted = new String(wordArray);
 
             if (anagrams.containsKey(sorted)) {
-                result.get(anagrams.get(sorted)).add(str);
+                anagrams.get(sorted).add(str);
             } else {
-                int pos = result.size();
-                anagrams.put(sorted, pos);
-                result.add(new ArrayList<>(List.of(str)));
+                anagrams.put(sorted, new ArrayList<>(List.of(str)));
             }
         }
 
-        return result;
+        return new ArrayList<>(anagrams.values());
     }
 }
