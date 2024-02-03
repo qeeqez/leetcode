@@ -17,18 +17,16 @@ import java.util.Map;
 public class TwoSum1 {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> numsMap = new HashMap<>();
-        int[] output = {0, 0};
 
         for (int i = 0; i < nums.length; i++) {
             int secondNumber = target - nums[i];
             if (numsMap.containsKey(secondNumber)) {
-                output[1] = i;
-                output[0] = numsMap.get(secondNumber);
-                return output;
+                return new int[]{numsMap.get(secondNumber), i};
             }
             numsMap.put(nums[i], i);
         }
-        return output;
+
+        return new int[]{};
     }
 }
 
