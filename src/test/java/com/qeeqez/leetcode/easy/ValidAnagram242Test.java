@@ -14,6 +14,7 @@ public class ValidAnagram242Test {
         String s = "anagram", t = "nagaram";
 
         assertTrue(solution.isAnagram(s, t));
+        assertTrue(solution.isAnagramHashMap(s, t));
     }
 
     @Test
@@ -21,6 +22,7 @@ public class ValidAnagram242Test {
         String s = "rat", t = "car";
 
         assertFalse(solution.isAnagram(s, t));
+        assertFalse(solution.isAnagramHashMap(s, t));
     }
 
     @Test
@@ -28,5 +30,6 @@ public class ValidAnagram242Test {
         String s = "rat", t = "tra";
 
         assertTrue(solution.isAnagram(s, t));
+        assertTrue(solution.isAnagramHashMap(s, t));
     }
 }
